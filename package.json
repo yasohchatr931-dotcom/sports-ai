@@ -1,0 +1,2 @@
+{ "name": "sports-ai", "private": true, "type": "module",
+  "dependencies": { "fast-xml-parser": "^4.5.0", "fflate": "^0.8.2" } }

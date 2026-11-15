@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SPORTS AI – Matchs à la TV</title>
+<style>
+:root{--bg:#f3f5f1;--ink:#14201a;--muted:#5d6b63;--line:#d5dcd3;--pitch:#1f6b3a;--chip:#e4ebe2}
+@media(prefers-color-scheme:dark){:root{--bg:#0f1712;--ink:#e8efe9;--muted:#97a69c;--line:#26332b;--pitch:#4fbf7a;--chip:#1a261f}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,sans-serif}
+main{max-width:760px;margin:0 auto;padding:24px 16px 64px}
+nav{display:flex;gap:20px;padding:16px;max-width:760px;margin:0 auto;border-bottom:1px solid var(--line);font-weight:600}
+nav a{color:var(--ink);text-decoration:none}nav a[aria-current=page]{color:var(--pitch)}
+a:focus-visible,button:focus-visible{outline:2px solid var(--pitch);outline-offset:2px}
+h1{font-size:2rem;margin:8px 0 4px;letter-spacing:-.02em}
+h2{font-size:1.1rem;margin:32px 0 8px;text-transform:capitalize}
+.sub{color:var(--muted);margin:0 0 20px}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:8px}
+.chip{padding:4px 12px;border:0;border-radius:999px;background:var(--chip);color:var(--ink);font:inherit;font-size:.9rem;cursor:pointer}
+.chip[aria-pressed=true]{background:var(--pitch);color:var(--bg)}
+.row{display:grid;grid-template-columns:56px 1fr auto;gap:12px;align-items:baseline;padding:12px 0;border-top:1px solid var(--line)}
+.time{font-variant-numeric:tabular-nums;font-weight:700}.teams{font-weight:600}
+.comp{color:var(--muted);font-size:.85rem}
+.channel{background:var(--chip);border-radius:6px;padding:2px 10px;font-size:.85rem}
+.analysis{grid-column:2/4;white-space:pre-wrap;font-size:.95rem}
+.empty{padding:24px 0;color:var(--muted)}
+footer{margin-top:48px;color:var(--muted);font-size:.8rem}
+</style>
+</head>
+<body>
+<nav><a href="#matchs" id="n-matchs">Matchs à la TV</a><a href="#pronostics" id="n-pronostics">Pronostics TV du jour</a></nav>
+<main id="app"></main>
+<script>
+const TZ = "Europe/Paris";
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const hhmm = iso => new Date(iso).toLocaleTimeString("fr-FR", {hour:"2-digit", minute:"2-digit", timeZone:TZ});
+const dayKey = iso => new Date(iso).toLocaleDateString("fr-CA", {timeZone:TZ});
+const dayLabel = k => new Date(k + "T12:00:00").toLocaleDateString("fr-FR", {weekday:"long", day:"numeric", month:"long"});
+let DATA = {matches: [], updated_at: null}, chaine = "", jour = "";
+
+const row = (m, withAnalysis) => `<div class="row">
+  <span class="time">${hhmm(m.start)}</span>
+  <span><span class="teams">${esc(m.home)} – ${esc(m.away)}</span><br><span class="comp">${esc(m.competition || "Football")}</span></span>
+  <span class="channel" title="Source : ${esc(m.source_name)}">${esc(m.channel)}</span>
+  ${withAnalysis ? `<div class="analysis">${m.analysis ? esc(m.analysis) : "Analyse non disponible pour ce match."}</div>` : ""}</div>`;
+
+const chip = (label, on, attr) => `<button class="chip" aria-pressed="${on}" ${attr}>${esc(label)}</button>`;
+
+function render() {
+  const pron = location.hash === "#pronostics";
+  document.getElementById("n-matchs").setAttribute("aria-current", pron ? "false" : "page");
+  document.getElementById("n-pronostics").setAttribute("aria-current", pron ? "page" : "false");
+  const all = DATA.matches, app = document.getElementById("app");
+  const maj = DATA.updated_at ? new Date(DATA.updated_at).toLocaleString("fr-FR", {timeZone:TZ, dateStyle:"long", timeStyle:"short"}) : "jamais";
+  let html;
+  if (pron) {
+    const today = dayKey(new Date().toISOString());
+    const list = all.filter(m => dayKey(m.start) === today);
+    html = `<h1>Pronostics TV du jour</h1><p class="sub">Uniquement les matchs diffusés aujourd'hui en France.</p>` +
+      (list.length ? list.map(m => row(m, true)).join("") : `<p class="empty">Aucun match diffusé aujourd'hui, donc aucun pronostic.</p>`);
+  } else {
+    const channels = [...new Set(all.map(m => m.channel))].sort();
+    const days = [...new Set(all.map(m => dayKey(m.start)))];
+    const shown = all.filter(m => (!chaine || m.channel === chaine) && (!jour || dayKey(m.start) === jour));
+    html = `<h1>Matchs à la TV</h1><p class="sub">Football diffusé en France, chaîne et heure vérifiées.</p>
+      <div class="chips" aria-label="Calendrier">${chip("Tous les jours", !jour, 'data-j=""')}${days.map(d => chip(dayLabel(d), jour === d, `data-j="${d}"`)).join("")}</div>
+      <div class="chips" aria-label="Chaînes">${chip("Toutes les chaînes", !chaine, 'data-c=""')}${channels.map(c => chip(c, chaine === c, `data-c="${esc(c)}"`)).join("")}</div>`;
+    const groups = days.map(d => [d, shown.filter(m => dayKey(m.start) === d)]).filter(([, l]) => l.length);
+    html += groups.length ? groups.map(([d, l]) => `<h2>${dayLabel(d)}</h2>${l.map(m => row(m, false)).join("")}`).join("")
+      : `<p class="empty">Aucun match diffusé ne correspond à ces filtres.</p>`;
+  }
+  html += `<footer>Seuls les matchs avec une diffusion confirmée en France sont affichés. Dernière mise à jour : ${maj}. Un pronostic n'est pas une certitude. Jouer comporte des risques : endettement, isolement, dépendance. Joueurs Info Service : 09 74 75 13 13.</footer>`;
+  app.innerHTML = html;
+  app.querySelectorAll("[data-j]").forEach(b => b.onclick = () => { jour = b.dataset.j; render(); });
+  app.querySelectorAll("[data-c]").forEach(b => b.onclick = () => { chaine = b.dataset.c; render(); });
+}
+
+addEventListener("hashchange", render);
+fetch("data/matches.json", {cache: "no-store"}).then(r => r.json()).then(d => { DATA = d; render(); })
+  .catch(() => { document.getElementById("app").innerHTML = `<p class="empty">Les données ne sont pas encore disponibles.</p>`; });
+</script>
+</body>
+</html>
