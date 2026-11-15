@@ -6,7 +6,9 @@ import { detectCompetition, isLiveFootballMatch, parseTeams, parseXmltvDate } fr
 
 const URL_TV = process.env.XMLTV_URL || "https://xmltvfr.fr/xmltv/xmltv.zip";
 const OUT = "data/matches.json";
-const txt = (v) => (Array.isArray(v) ? txt(v[0]) : typeof v === "object" && v ? txt(v["#text"]) : String(v ?? ""));
+// Le décodage des &amp; &lt; etc. est fait ici : le décodeur intégré de la bibliothèque plante sur ce gros fichier.
+const dec = (s) => s.replace(/&(amp|lt|gt|quot|apos|#\d+|#x[0-9a-f]+);/gi, (m, e) => ({ amp: "&", lt: "<", gt: ">", quot: '"', apos: "'" }[e.toLowerCase()] ?? String.fromCodePoint(e[1].toLowerCase() === "x" ? parseInt(e.slice(2), 16) : parseInt(e.slice(1), 10))));
+const txt = (v) => (Array.isArray(v) ? txt(v[0]) : typeof v === "object" && v ? txt(v["#text"]) : dec(String(v ?? "")));
 
 async function download() {
   const res = await fetch(URL_TV);
@@ -25,7 +27,7 @@ let previous = { matches: [] };
 try { previous = JSON.parse(readFileSync(OUT, "utf8")); } catch {}
 const oldAnalyses = new Map(previous.matches.filter((m) => m.analysis).map((m) => [m.id, m.analysis]));
 
-const tv = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: "@" }).parse(await download()).tv;
+const tv = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: "@", processEntities: false }).parse(await download()).tv;
 const channels = new Map([].concat(tv?.channel ?? []).map((c) => [c["@id"], txt(c["display-name"])]));
 // Garde-fou : un fichier vide ou illisible ne doit jamais effacer les données existantes.
 if (channels.size === 0) throw new Error("Programme TV vide ou illisible : abandon sans modification.");
