@@ -1,1557 +1,7 @@
 {
- "updated_at": "2026-11-25T14:52:32.221Z",
+ "updated_at": "2026-11-26T04:55:13.517Z",
  "source": "https://xmltvfr.fr/xmltv/xmltv.zip",
  "matches": [
-  {
-   "id": "NickJr|2026-11-25T11:56:00.000Z|Paw Patrol, la Pat'Patrouille (Luc Luky|L'aigle à la patte ficelée) S2",
-   "home": "Paw Patrol, la Pat'Patrouille (Luc Luky",
-   "away": "L'aigle à la patte ficelée) S2",
-   "channel": "NickJr",
-   "start": "2026-11-25T11:56:00.000Z",
-   "competition": "CAN",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "ZeeMagic|2026-11-25T12:00:00.000Z|Can You See Me|Season 1",
-   "home": "Can You See Me",
-   "away": "Season 1",
-   "channel": "ZeeMagic",
-   "start": "2026-11-25T12:00:00.000Z",
-   "competition": "CAN",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Premier League|2026-11-25T12:25:00.000Z|Manchester City|Fulham",
-   "home": "Manchester City",
-   "away": "Fulham",
-   "channel": "Canal+ Premier League",
-   "start": "2026-11-25T12:25:00.000Z",
-   "competition": "Premier League",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "DAZN 2|2026-11-25T12:35:00.000Z|FC Séville|Betis Séville",
-   "home": "FC Séville",
-   "away": "Betis Séville",
-   "channel": "DAZN 2",
-   "start": "2026-11-25T12:35:00.000Z",
-   "competition": "Liga",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "ElevenSports2FR|2026-11-25T12:35:00.000Z|FC Séville|Betis Séville",
-   "home": "FC Séville",
-   "away": "Betis Séville",
-   "channel": "ElevenSports2FR",
-   "start": "2026-11-25T12:35:00.000Z",
-   "competition": "Liga",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Sport 1|2026-11-25T12:47:00.000Z|Platini|Saison 1",
-   "home": "Platini",
-   "away": "Saison 1",
-   "channel": "Canal+ Sport 1",
-   "start": "2026-11-25T12:47:00.000Z",
-   "competition": null,
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Sport 3|2026-11-25T12:59:00.000Z|Histoires de Premier League 2026|2027",
-   "home": "Histoires de Premier League 2026",
-   "away": "2027",
-   "channel": "Canal+ Sport 3",
-   "start": "2026-11-25T12:59:00.000Z",
-   "competition": "Premier League",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Ligue 1+|2026-11-25T13:00:00.000Z|Ligue 1 McDonald's | Lille|Lyon",
-   "home": "Ligue 1 McDonald's | Lille",
-   "away": "Lyon",
-   "channel": "Ligue 1+",
-   "start": "2026-11-25T13:00:00.000Z",
-   "competition": "Ligue 1",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports2F.be|2026-11-25T13:00:00.000Z|Sabah FC|FC Barcelona le 25/11 à 18:35",
-   "home": "Sabah FC",
-   "away": "FC Barcelona le 25/11 à 18:35",
-   "channel": "PickxPlusSports2F.be",
-   "start": "2026-11-25T13:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports2N.be|2026-11-25T13:00:00.000Z|Sabah FC|FC Barcelona op 25/11 om 18:35",
-   "home": "Sabah FC",
-   "away": "FC Barcelona op 25/11 om 18:35",
-   "channel": "PickxPlusSports2N.be",
-   "start": "2026-11-25T13:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports3F.be|2026-11-25T13:00:00.000Z|Slavia Prague|Villarreal le 25/11 à 18:35",
-   "home": "Slavia Prague",
-   "away": "Villarreal le 25/11 à 18:35",
-   "channel": "PickxPlusSports3F.be",
-   "start": "2026-11-25T13:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports3N.be|2026-11-25T13:00:00.000Z|Slavia Praag|Villarreal op 25/11 om 18:35",
-   "home": "Slavia Praag",
-   "away": "Villarreal op 25/11 om 18:35",
-   "channel": "PickxPlusSports3N.be",
-   "start": "2026-11-25T13:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports4F.be|2026-11-25T13:00:00.000Z|Lille|Bayern Munich le 25/11 à 20:50",
-   "home": "Lille",
-   "away": "Bayern Munich le 25/11 à 20:50",
-   "channel": "PickxPlusSports4F.be",
-   "start": "2026-11-25T13:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports4N.be|2026-11-25T13:00:00.000Z|Lille|Bayern München op 25/11 om 20:50",
-   "home": "Lille",
-   "away": "Bayern München op 25/11 om 20:50",
-   "channel": "PickxPlusSports4N.be",
-   "start": "2026-11-25T13:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports5F.be|2026-11-25T13:00:00.000Z|Sporting CP|Manchester United le 25/11 à 20:50",
-   "home": "Sporting CP",
-   "away": "Manchester United le 25/11 à 20:50",
-   "channel": "PickxPlusSports5F.be",
-   "start": "2026-11-25T13:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports5N.be|2026-11-25T13:00:00.000Z|Sporting CP|Manchester United op 25/11 om 20:50",
-   "home": "Sporting CP",
-   "away": "Manchester United op 25/11 om 20:50",
-   "channel": "PickxPlusSports5N.be",
-   "start": "2026-11-25T13:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports6F.be|2026-11-25T13:00:00.000Z|Inter Milan|Stuttgart le 25/11 à 20:50",
-   "home": "Inter Milan",
-   "away": "Stuttgart le 25/11 à 20:50",
-   "channel": "PickxPlusSports6F.be",
-   "start": "2026-11-25T13:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports6N.be|2026-11-25T13:00:00.000Z|Inter Milan|Stuttgart op 25/11 om 20:50",
-   "home": "Inter Milan",
-   "away": "Stuttgart op 25/11 om 20:50",
-   "channel": "PickxPlusSports6N.be",
-   "start": "2026-11-25T13:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports7F.be|2026-11-25T13:00:00.000Z|Shakhtar Donetsk|Fenerbahce le 25/11 à 20:50",
-   "home": "Shakhtar Donetsk",
-   "away": "Fenerbahce le 25/11 à 20:50",
-   "channel": "PickxPlusSports7F.be",
-   "start": "2026-11-25T13:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports7N.be|2026-11-25T13:00:00.000Z|Shakhtar Donetsk|Fenerbahce op 25/11 om 20:50",
-   "home": "Shakhtar Donetsk",
-   "away": "Fenerbahce op 25/11 om 20:50",
-   "channel": "PickxPlusSports7N.be",
-   "start": "2026-11-25T13:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports8F.be|2026-11-25T13:00:00.000Z|Atlético Madrid|Viking FK le 25/11 à 20:50",
-   "home": "Atlético Madrid",
-   "away": "Viking FK le 25/11 à 20:50",
-   "channel": "PickxPlusSports8F.be",
-   "start": "2026-11-25T13:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports8N.be|2026-11-25T13:00:00.000Z|Atlético Madrid|Viking FK op 25/11 om 20:50",
-   "home": "Atlético Madrid",
-   "away": "Viking FK op 25/11 om 20:50",
-   "channel": "PickxPlusSports8N.be",
-   "start": "2026-11-25T13:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "beIN SPORTS 2|2026-11-25T13:00:00.000Z|Ligue 2 BKT | Laval|Montpellier",
-   "home": "Ligue 2 BKT | Laval",
-   "away": "Montpellier",
-   "channel": "beIN SPORTS 2",
-   "start": "2026-11-25T13:00:00.000Z",
-   "competition": "Ligue 2",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "ElevenProL1|2026-11-25T13:10:00.000Z|Waasland-Beveren|La Gantoise",
-   "home": "Waasland-Beveren",
-   "away": "La Gantoise",
-   "channel": "ElevenProL1",
-   "start": "2026-11-25T13:10:00.000Z",
-   "competition": null,
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Sport 1|2026-11-25T13:18:00.000Z|Platini|Saison 1",
-   "home": "Platini",
-   "away": "Saison 1",
-   "channel": "Canal+ Sport 1",
-   "start": "2026-11-25T13:18:00.000Z",
-   "competition": null,
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "blue Zoom fr|2026-11-25T13:20:00.000Z|Real Madrid|PSV Eindhoven",
-   "home": "Real Madrid",
-   "away": "PSV Eindhoven",
-   "channel": "blue Zoom fr",
-   "start": "2026-11-25T13:20:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Sport 2|2026-11-25T13:25:00.000Z|Augsbourg|Mayence",
-   "home": "Augsbourg",
-   "away": "Mayence",
-   "channel": "Canal+ Sport 2",
-   "start": "2026-11-25T13:25:00.000Z",
-   "competition": "Bundesliga",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Sport 3|2026-11-25T13:25:00.000Z|Histoires de Premier League 2026|2027",
-   "home": "Histoires de Premier League 2026",
-   "away": "2027",
-   "channel": "Canal+ Sport 3",
-   "start": "2026-11-25T13:25:00.000Z",
-   "competition": "Premier League",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "La chaine l’Équipe|2026-11-25T13:25:00.000Z|Coupe du monde U17 | Uruguay|France",
-   "home": "Coupe du monde U17 | Uruguay",
-   "away": "France",
-   "channel": "La chaine l’Équipe",
-   "start": "2026-11-25T13:25:00.000Z",
-   "competition": "Coupe du monde",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "DAZN 1|2026-11-25T13:45:00.000Z|Real Madrid|Celta Vigo",
-   "home": "Real Madrid",
-   "away": "Celta Vigo",
-   "channel": "DAZN 1",
-   "start": "2026-11-25T13:45:00.000Z",
-   "competition": "Liga",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "ElevenSports1FR|2026-11-25T13:45:00.000Z|Real Madrid|Celta de Vigo",
-   "home": "Real Madrid",
-   "away": "Celta de Vigo",
-   "channel": "ElevenSports1FR",
-   "start": "2026-11-25T13:45:00.000Z",
-   "competition": "Liga",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "TV7 Bordeaux|2026-11-25T13:50:00.000Z|Championnat de Régional 1 | Bordeaux|Boulazac",
-   "home": "Championnat de Régional 1 | Bordeaux",
-   "away": "Boulazac",
-   "channel": "TV7 Bordeaux",
-   "start": "2026-11-25T13:50:00.000Z",
-   "competition": null,
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Sport 3|2026-11-25T13:52:00.000Z|Chelsea|Leeds",
-   "home": "Chelsea",
-   "away": "Leeds",
-   "channel": "Canal+ Sport 3",
-   "start": "2026-11-25T13:52:00.000Z",
-   "competition": "Premier League",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Sport 4|2026-11-25T14:03:00.000Z|Gérone|Eibar",
-   "home": "Gérone",
-   "away": "Eibar",
-   "channel": "Canal+ Sport 4",
-   "start": "2026-11-25T14:03:00.000Z",
-   "competition": "Liga",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Eurosport International 1|2026-11-25T14:15:00.000Z|Garmisch Partenkirchen | Grand Tremplin|HS 142",
-   "home": "Garmisch Partenkirchen | Grand Tremplin",
-   "away": "HS 142",
-   "channel": "Eurosport International 1",
-   "start": "2026-11-25T14:15:00.000Z",
-   "competition": "Coupe du monde",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Sport 1|2026-11-25T14:34:00.000Z|Gérone|Eibar",
-   "home": "Gérone",
-   "away": "Eibar",
-   "channel": "Canal+ Sport 1",
-   "start": "2026-11-25T14:34:00.000Z",
-   "competition": "Liga",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "TV7 Bordeaux|2026-11-25T14:45:00.000Z|Championnat de Régional 1 | Bordeaux|Boulazac",
-   "home": "Championnat de Régional 1 | Bordeaux",
-   "away": "Boulazac",
-   "channel": "TV7 Bordeaux",
-   "start": "2026-11-25T14:45:00.000Z",
-   "competition": null,
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Foot|2026-11-25T14:55:00.000Z|UEFA Youth League | Paris-SG|AS Roma",
-   "home": "UEFA Youth League | Paris-SG",
-   "away": "AS Roma",
-   "channel": "Canal+ Foot",
-   "start": "2026-11-25T14:55:00.000Z",
-   "competition": null,
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Sport+|2026-11-25T14:55:00.000Z|Paris-SG|AS Roma",
-   "home": "Paris-SG",
-   "away": "AS Roma",
-   "channel": "Sport+",
-   "start": "2026-11-25T14:55:00.000Z",
-   "competition": null,
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Ligue 1+|2026-11-25T15:00:00.000Z|Ligue 1 McDonald's | Lens|Toulouse",
-   "home": "Ligue 1 McDonald's | Lens",
-   "away": "Toulouse",
-   "channel": "Ligue 1+",
-   "start": "2026-11-25T15:00:00.000Z",
-   "competition": "Ligue 1",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "beIN SPORTS 1|2026-11-25T15:00:00.000Z|Bundesliga | Bayern Munich|Cologne",
-   "home": "Bundesliga | Bayern Munich",
-   "away": "Cologne",
-   "channel": "beIN SPORTS 1",
-   "start": "2026-11-25T15:00:00.000Z",
-   "competition": "Bundesliga",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "beIN SPORTS 2|2026-11-25T15:00:00.000Z|Süper Lig | Konyaspor|Besiktas",
-   "home": "Süper Lig | Konyaspor",
-   "away": "Besiktas",
-   "channel": "beIN SPORTS 2",
-   "start": "2026-11-25T15:00:00.000Z",
-   "competition": null,
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "blue Zoom fr|2026-11-25T15:15:00.000Z|Arsenal|Borussia Dortmund",
-   "home": "Arsenal",
-   "away": "Borussia Dortmund",
-   "channel": "blue Zoom fr",
-   "start": "2026-11-25T15:15:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Sport 4|2026-11-25T15:43:00.000Z|FC Barcelone|Villarreal",
-   "home": "FC Barcelone",
-   "away": "Villarreal",
-   "channel": "Canal+ Sport 4",
-   "start": "2026-11-25T15:43:00.000Z",
-   "competition": "Liga",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports2F.be|2026-11-25T16:00:00.000Z|Sabah FC|FC Barcelona le 25/11 à 18:35",
-   "home": "Sabah FC",
-   "away": "FC Barcelona le 25/11 à 18:35",
-   "channel": "PickxPlusSports2F.be",
-   "start": "2026-11-25T16:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports2N.be|2026-11-25T16:00:00.000Z|Sabah FC|FC Barcelona op 25/11 om 18:35",
-   "home": "Sabah FC",
-   "away": "FC Barcelona op 25/11 om 18:35",
-   "channel": "PickxPlusSports2N.be",
-   "start": "2026-11-25T16:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports3F.be|2026-11-25T16:00:00.000Z|Slavia Prague|Villarreal le 25/11 à 18:35",
-   "home": "Slavia Prague",
-   "away": "Villarreal le 25/11 à 18:35",
-   "channel": "PickxPlusSports3F.be",
-   "start": "2026-11-25T16:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports3N.be|2026-11-25T16:00:00.000Z|Slavia Praag|Villarreal op 25/11 om 18:35",
-   "home": "Slavia Praag",
-   "away": "Villarreal op 25/11 om 18:35",
-   "channel": "PickxPlusSports3N.be",
-   "start": "2026-11-25T16:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports4F.be|2026-11-25T16:00:00.000Z|Lille|Bayern Munich le 25/11 à 20:50",
-   "home": "Lille",
-   "away": "Bayern Munich le 25/11 à 20:50",
-   "channel": "PickxPlusSports4F.be",
-   "start": "2026-11-25T16:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports4N.be|2026-11-25T16:00:00.000Z|Lille|Bayern München op 25/11 om 20:50",
-   "home": "Lille",
-   "away": "Bayern München op 25/11 om 20:50",
-   "channel": "PickxPlusSports4N.be",
-   "start": "2026-11-25T16:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports5F.be|2026-11-25T16:00:00.000Z|Sporting CP|Manchester United le 25/11 à 20:50",
-   "home": "Sporting CP",
-   "away": "Manchester United le 25/11 à 20:50",
-   "channel": "PickxPlusSports5F.be",
-   "start": "2026-11-25T16:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports5N.be|2026-11-25T16:00:00.000Z|Sporting CP|Manchester United op 25/11 om 20:50",
-   "home": "Sporting CP",
-   "away": "Manchester United op 25/11 om 20:50",
-   "channel": "PickxPlusSports5N.be",
-   "start": "2026-11-25T16:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports6F.be|2026-11-25T16:00:00.000Z|Inter Milan|Stuttgart le 25/11 à 20:50",
-   "home": "Inter Milan",
-   "away": "Stuttgart le 25/11 à 20:50",
-   "channel": "PickxPlusSports6F.be",
-   "start": "2026-11-25T16:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports6N.be|2026-11-25T16:00:00.000Z|Inter Milan|Stuttgart op 25/11 om 20:50",
-   "home": "Inter Milan",
-   "away": "Stuttgart op 25/11 om 20:50",
-   "channel": "PickxPlusSports6N.be",
-   "start": "2026-11-25T16:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports7F.be|2026-11-25T16:00:00.000Z|Shakhtar Donetsk|Fenerbahce le 25/11 à 20:50",
-   "home": "Shakhtar Donetsk",
-   "away": "Fenerbahce le 25/11 à 20:50",
-   "channel": "PickxPlusSports7F.be",
-   "start": "2026-11-25T16:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports7N.be|2026-11-25T16:00:00.000Z|Shakhtar Donetsk|Fenerbahce op 25/11 om 20:50",
-   "home": "Shakhtar Donetsk",
-   "away": "Fenerbahce op 25/11 om 20:50",
-   "channel": "PickxPlusSports7N.be",
-   "start": "2026-11-25T16:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports8F.be|2026-11-25T16:00:00.000Z|Atlético Madrid|Viking FK le 25/11 à 20:50",
-   "home": "Atlético Madrid",
-   "away": "Viking FK le 25/11 à 20:50",
-   "channel": "PickxPlusSports8F.be",
-   "start": "2026-11-25T16:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports8N.be|2026-11-25T16:00:00.000Z|Atlético Madrid|Viking FK op 25/11 om 20:50",
-   "home": "Atlético Madrid",
-   "away": "Viking FK op 25/11 om 20:50",
-   "channel": "PickxPlusSports8N.be",
-   "start": "2026-11-25T16:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "DAZN 1|2026-11-25T16:35:00.000Z|Atalanta Bergame|Inter Milan",
-   "home": "Atalanta Bergame",
-   "away": "Inter Milan",
-   "channel": "DAZN 1",
-   "start": "2026-11-25T16:35:00.000Z",
-   "competition": "Serie A",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "ElevenProL1|2026-11-25T16:35:00.000Z|Courtrai|Union Saint-Gilloise",
-   "home": "Courtrai",
-   "away": "Union Saint-Gilloise",
-   "channel": "ElevenProL1",
-   "start": "2026-11-25T16:35:00.000Z",
-   "competition": null,
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "ElevenSports1FR|2026-11-25T16:35:00.000Z|Atalanta Bergame|Inter Milan",
-   "home": "Atalanta Bergame",
-   "away": "Inter Milan",
-   "channel": "ElevenSports1FR",
-   "start": "2026-11-25T16:35:00.000Z",
-   "competition": "Serie A",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Sport 1|2026-11-25T16:58:00.000Z|Mönchengladbach|Borussia Dortmund",
-   "home": "Mönchengladbach",
-   "away": "Borussia Dortmund",
-   "channel": "Canal+ Sport 1",
-   "start": "2026-11-25T16:58:00.000Z",
-   "competition": "Bundesliga",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Ligue 1+|2026-11-25T17:00:00.000Z|Ligue 1 McDonald's | Monaco|Auxerre",
-   "home": "Ligue 1 McDonald's | Monaco",
-   "away": "Auxerre",
-   "channel": "Ligue 1+",
-   "start": "2026-11-25T17:00:00.000Z",
-   "competition": "Ligue 1",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "beIN SPORTS 2|2026-11-25T17:00:00.000Z|Bundesliga | Union Berlin|Leipzig",
-   "home": "Bundesliga | Union Berlin",
-   "away": "Leipzig",
-   "channel": "beIN SPORTS 2",
-   "start": "2026-11-25T17:00:00.000Z",
-   "competition": "Bundesliga",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Sport 2|2026-11-25T17:18:00.000Z|Lorient|Rennes",
-   "home": "Lorient",
-   "away": "Rennes",
-   "channel": "Canal+ Sport 2",
-   "start": "2026-11-25T17:18:00.000Z",
-   "competition": "Ligue 1",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Sport 3|2026-11-25T17:23:00.000Z|Aston Villa|Sunderland",
-   "home": "Aston Villa",
-   "away": "Sunderland",
-   "channel": "Canal+ Sport 3",
-   "start": "2026-11-25T17:23:00.000Z",
-   "competition": "Premier League",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Sport 4|2026-11-25T17:23:00.000Z|Real Madrid|Celta Vigo",
-   "home": "Real Madrid",
-   "away": "Celta Vigo",
-   "channel": "Canal+ Sport 4",
-   "start": "2026-11-25T17:23:00.000Z",
-   "competition": "Liga",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Premier League|2026-11-25T17:25:00.000Z|Newcastle United|Arsenal",
-   "home": "Newcastle United",
-   "away": "Arsenal",
-   "channel": "Canal+ Premier League",
-   "start": "2026-11-25T17:25:00.000Z",
-   "competition": "Premier League",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports2F.be|2026-11-25T17:35:00.000Z|Sabah FC|FC Barcelona",
-   "home": "Sabah FC",
-   "away": "FC Barcelona",
-   "channel": "PickxPlusSports2F.be",
-   "start": "2026-11-25T17:35:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports2N.be|2026-11-25T17:35:00.000Z|Sabah FC|FC Barcelona",
-   "home": "Sabah FC",
-   "away": "FC Barcelona",
-   "channel": "PickxPlusSports2N.be",
-   "start": "2026-11-25T17:35:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports3F.be|2026-11-25T17:35:00.000Z|Slavia Prague|Villarreal",
-   "home": "Slavia Prague",
-   "away": "Villarreal",
-   "channel": "PickxPlusSports3F.be",
-   "start": "2026-11-25T17:35:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports3N.be|2026-11-25T17:35:00.000Z|Slavia Praag|Villarreal",
-   "home": "Slavia Praag",
-   "away": "Villarreal",
-   "channel": "PickxPlusSports3N.be",
-   "start": "2026-11-25T17:35:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Foot|2026-11-25T17:40:00.000Z|Ligue des champions | Sabah|FC Barcelone",
-   "home": "Ligue des champions | Sabah",
-   "away": "FC Barcelone",
-   "channel": "Canal+ Foot",
-   "start": "2026-11-25T17:40:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Live 2|2026-11-25T17:40:00.000Z|Sabah|FC Barcelone",
-   "home": "Sabah",
-   "away": "FC Barcelone",
-   "channel": "Canal+ Live 2",
-   "start": "2026-11-25T17:40:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Evenements Sports 4K UHD|2026-11-25T17:40:00.000Z|Sabah|FC Barcelone",
-   "home": "Sabah",
-   "away": "FC Barcelone",
-   "channel": "Evenements Sports 4K UHD",
-   "start": "2026-11-25T17:40:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Sport|2026-11-25T17:45:00.000Z|Ligue des champions | Slavia Prague|Villarreal",
-   "home": "Ligue des champions | Slavia Prague",
-   "away": "Villarreal",
-   "channel": "Canal+ Sport",
-   "start": "2026-11-25T17:45:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "ZeeMagic|2026-11-25T18:00:00.000Z|Can You See Me|Season 1",
-   "home": "Can You See Me",
-   "away": "Season 1",
-   "channel": "ZeeMagic",
-   "start": "2026-11-25T18:00:00.000Z",
-   "competition": "CAN",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "BX1|2026-11-25T18:30:00.000Z|Castors Braine|Alba Berlin",
-   "home": "Castors Braine",
-   "away": "Alba Berlin",
-   "channel": "BX1",
-   "start": "2026-11-25T18:30:00.000Z",
-   "competition": null,
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "beIN SPORTS 1|2026-11-25T18:30:00.000Z|Ligue 2 BKT | Reims|Saint-Etienne",
-   "home": "Ligue 2 BKT | Reims",
-   "away": "Saint-Etienne",
-   "channel": "beIN SPORTS 1",
-   "start": "2026-11-25T18:30:00.000Z",
-   "competition": "Ligue 2",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports4F.be|2026-11-25T19:00:00.000Z|Lille|Bayern Munich le 25/11 à 20:50",
-   "home": "Lille",
-   "away": "Bayern Munich le 25/11 à 20:50",
-   "channel": "PickxPlusSports4F.be",
-   "start": "2026-11-25T19:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports4N.be|2026-11-25T19:00:00.000Z|Lille|Bayern München op 25/11 om 20:50",
-   "home": "Lille",
-   "away": "Bayern München op 25/11 om 20:50",
-   "channel": "PickxPlusSports4N.be",
-   "start": "2026-11-25T19:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports5F.be|2026-11-25T19:00:00.000Z|Sporting CP|Manchester United le 25/11 à 20:50",
-   "home": "Sporting CP",
-   "away": "Manchester United le 25/11 à 20:50",
-   "channel": "PickxPlusSports5F.be",
-   "start": "2026-11-25T19:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports5N.be|2026-11-25T19:00:00.000Z|Sporting CP|Manchester United op 25/11 om 20:50",
-   "home": "Sporting CP",
-   "away": "Manchester United op 25/11 om 20:50",
-   "channel": "PickxPlusSports5N.be",
-   "start": "2026-11-25T19:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports6F.be|2026-11-25T19:00:00.000Z|Inter Milan|Stuttgart le 25/11 à 20:50",
-   "home": "Inter Milan",
-   "away": "Stuttgart le 25/11 à 20:50",
-   "channel": "PickxPlusSports6F.be",
-   "start": "2026-11-25T19:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports6N.be|2026-11-25T19:00:00.000Z|Inter Milan|Stuttgart op 25/11 om 20:50",
-   "home": "Inter Milan",
-   "away": "Stuttgart op 25/11 om 20:50",
-   "channel": "PickxPlusSports6N.be",
-   "start": "2026-11-25T19:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports7F.be|2026-11-25T19:00:00.000Z|Shakhtar Donetsk|Fenerbahce le 25/11 à 20:50",
-   "home": "Shakhtar Donetsk",
-   "away": "Fenerbahce le 25/11 à 20:50",
-   "channel": "PickxPlusSports7F.be",
-   "start": "2026-11-25T19:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports7N.be|2026-11-25T19:00:00.000Z|Shakhtar Donetsk|Fenerbahce op 25/11 om 20:50",
-   "home": "Shakhtar Donetsk",
-   "away": "Fenerbahce op 25/11 om 20:50",
-   "channel": "PickxPlusSports7N.be",
-   "start": "2026-11-25T19:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports8F.be|2026-11-25T19:00:00.000Z|Atlético Madrid|Viking FK le 25/11 à 20:50",
-   "home": "Atlético Madrid",
-   "away": "Viking FK le 25/11 à 20:50",
-   "channel": "PickxPlusSports8F.be",
-   "start": "2026-11-25T19:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports8N.be|2026-11-25T19:00:00.000Z|Atlético Madrid|Viking FK op 25/11 om 20:50",
-   "home": "Atlético Madrid",
-   "away": "Viking FK op 25/11 om 20:50",
-   "channel": "PickxPlusSports8N.be",
-   "start": "2026-11-25T19:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Sport 1|2026-11-25T19:06:00.000Z|Marseille|Le Mans",
-   "home": "Marseille",
-   "away": "Le Mans",
-   "channel": "Canal+ Sport 1",
-   "start": "2026-11-25T19:06:00.000Z",
-   "competition": "Ligue 1",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "ElevenSports1FR|2026-11-25T19:30:00.000Z|Schalke|Benfica",
-   "home": "Schalke",
-   "away": "Benfica",
-   "channel": "ElevenSports1FR",
-   "start": "2026-11-25T19:30:00.000Z",
-   "competition": null,
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Premier League|2026-11-25T19:31:00.000Z|Chelsea|Leeds United",
-   "home": "Chelsea",
-   "away": "Leeds United",
-   "channel": "Canal+ Premier League",
-   "start": "2026-11-25T19:31:00.000Z",
-   "competition": "Premier League",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports2F.be|2026-11-25T19:45:00.000Z|FC Bruges|Liverpool le 25/11 à 20:50",
-   "home": "FC Bruges",
-   "away": "Liverpool le 25/11 à 20:50",
-   "channel": "PickxPlusSports2F.be",
-   "start": "2026-11-25T19:45:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports3F.be|2026-11-25T19:45:00.000Z|Paris Saint-Germain|AS Roma le 25/11 à 20:50",
-   "home": "Paris Saint-Germain",
-   "away": "AS Roma le 25/11 à 20:50",
-   "channel": "PickxPlusSports3F.be",
-   "start": "2026-11-25T19:45:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports3N.be|2026-11-25T19:45:00.000Z|Paris Saint-Germain|AS Roma op 25/11 om 20:50",
-   "home": "Paris Saint-Germain",
-   "away": "AS Roma op 25/11 om 20:50",
-   "channel": "PickxPlusSports3N.be",
-   "start": "2026-11-25T19:45:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports2F.be|2026-11-25T19:50:00.000Z|FC Bruges|Liverpool",
-   "home": "FC Bruges",
-   "away": "Liverpool",
-   "channel": "PickxPlusSports2F.be",
-   "start": "2026-11-25T19:50:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports3F.be|2026-11-25T19:50:00.000Z|Paris Saint-Germain|AS Roma",
-   "home": "Paris Saint-Germain",
-   "away": "AS Roma",
-   "channel": "PickxPlusSports3F.be",
-   "start": "2026-11-25T19:50:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports3N.be|2026-11-25T19:50:00.000Z|Paris Saint-Germain|AS Roma",
-   "home": "Paris Saint-Germain",
-   "away": "AS Roma",
-   "channel": "PickxPlusSports3N.be",
-   "start": "2026-11-25T19:50:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports4F.be|2026-11-25T19:50:00.000Z|Lille|Bayern Munich",
-   "home": "Lille",
-   "away": "Bayern Munich",
-   "channel": "PickxPlusSports4F.be",
-   "start": "2026-11-25T19:50:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports4N.be|2026-11-25T19:50:00.000Z|Lille|Bayern München",
-   "home": "Lille",
-   "away": "Bayern München",
-   "channel": "PickxPlusSports4N.be",
-   "start": "2026-11-25T19:50:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports5F.be|2026-11-25T19:50:00.000Z|Sporting CP|Manchester United",
-   "home": "Sporting CP",
-   "away": "Manchester United",
-   "channel": "PickxPlusSports5F.be",
-   "start": "2026-11-25T19:50:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports5N.be|2026-11-25T19:50:00.000Z|Sporting CP|Manchester United",
-   "home": "Sporting CP",
-   "away": "Manchester United",
-   "channel": "PickxPlusSports5N.be",
-   "start": "2026-11-25T19:50:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports6F.be|2026-11-25T19:50:00.000Z|Inter Milan|Stuttgart",
-   "home": "Inter Milan",
-   "away": "Stuttgart",
-   "channel": "PickxPlusSports6F.be",
-   "start": "2026-11-25T19:50:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports6N.be|2026-11-25T19:50:00.000Z|Inter Milan|Stuttgart",
-   "home": "Inter Milan",
-   "away": "Stuttgart",
-   "channel": "PickxPlusSports6N.be",
-   "start": "2026-11-25T19:50:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports7F.be|2026-11-25T19:50:00.000Z|Shakhtar Donetsk|Fenerbahce",
-   "home": "Shakhtar Donetsk",
-   "away": "Fenerbahce",
-   "channel": "PickxPlusSports7F.be",
-   "start": "2026-11-25T19:50:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports7N.be|2026-11-25T19:50:00.000Z|Shakhtar Donetsk|Fenerbahce",
-   "home": "Shakhtar Donetsk",
-   "away": "Fenerbahce",
-   "channel": "PickxPlusSports7N.be",
-   "start": "2026-11-25T19:50:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports8F.be|2026-11-25T19:50:00.000Z|Atlético Madrid|Viking FK",
-   "home": "Atlético Madrid",
-   "away": "Viking FK",
-   "channel": "PickxPlusSports8F.be",
-   "start": "2026-11-25T19:50:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports8N.be|2026-11-25T19:50:00.000Z|Atlético Madrid|Viking FK",
-   "home": "Atlético Madrid",
-   "away": "Viking FK",
-   "channel": "PickxPlusSports8N.be",
-   "start": "2026-11-25T19:50:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Live 5|2026-11-25T19:55:00.000Z|Inter Milan|Stuttgart",
-   "home": "Inter Milan",
-   "away": "Stuttgart",
-   "channel": "Canal+ Live 5",
-   "start": "2026-11-25T19:55:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Live 6|2026-11-25T19:55:00.000Z|Atlético Madrid|Viking Stavanger",
-   "home": "Atlético Madrid",
-   "away": "Viking Stavanger",
-   "channel": "Canal+ Live 6",
-   "start": "2026-11-25T19:55:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Live 7|2026-11-25T19:55:00.000Z|Chakhtior Donetsk|Fenerbahçe",
-   "home": "Chakhtior Donetsk",
-   "away": "Fenerbahçe",
-   "channel": "Canal+ Live 7",
-   "start": "2026-11-25T19:55:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Sport 2|2026-11-25T19:55:00.000Z|Paris-SG|AS Roma",
-   "home": "Paris-SG",
-   "away": "AS Roma",
-   "channel": "Canal+ Sport 2",
-   "start": "2026-11-25T19:55:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "beIN SPORTS MAX 4|2026-11-25T19:55:00.000Z|EFL Championship | Stoke City|Millwall",
-   "home": "EFL Championship | Stoke City",
-   "away": "Millwall",
-   "channel": "beIN SPORTS MAX 4",
-   "start": "2026-11-25T19:55:00.000Z",
-   "competition": null,
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "blue Zoom fr|2026-11-25T20:00:00.000Z|Liverpool|Manchester United",
-   "home": "Liverpool",
-   "away": "Manchester United",
-   "channel": "blue Zoom fr",
-   "start": "2026-11-25T20:00:00.000Z",
-   "competition": "Premier League",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+|2026-11-25T20:00:00.000Z|Ligue des champions | Paris-SG|AS Roma",
-   "home": "Ligue des champions | Paris-SG",
-   "away": "AS Roma",
-   "channel": "Canal+",
-   "start": "2026-11-25T20:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Foot|2026-11-25T20:00:00.000Z|Ligue des champions | Lille|Bayern Munich",
-   "home": "Ligue des champions | Lille",
-   "away": "Bayern Munich",
-   "channel": "Canal+ Foot",
-   "start": "2026-11-25T20:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "ElevenProL1|2026-11-25T20:00:00.000Z|Anderlecht|OH Louvain",
-   "home": "Anderlecht",
-   "away": "OH Louvain",
-   "channel": "ElevenProL1",
-   "start": "2026-11-25T20:00:00.000Z",
-   "competition": null,
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Sport 3|2026-11-25T20:20:00.000Z|Getafe|Atlético Madrid",
-   "home": "Getafe",
-   "away": "Atlético Madrid",
-   "channel": "Canal+ Sport 3",
-   "start": "2026-11-25T20:20:00.000Z",
-   "competition": "Liga",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Sport 3|2026-11-25T20:22:00.000Z|Histoires de Premier League 2026|2027",
-   "home": "Histoires de Premier League 2026",
-   "away": "2027",
-   "channel": "Canal+ Sport 3",
-   "start": "2026-11-25T20:22:00.000Z",
-   "competition": "Premier League",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Sport 3|2026-11-25T20:30:00.000Z|Newcastle|Arsenal",
-   "home": "Newcastle",
-   "away": "Arsenal",
-   "channel": "Canal+ Sport 3",
-   "start": "2026-11-25T20:30:00.000Z",
-   "competition": "Premier League",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Ligue 1+|2026-11-25T20:30:00.000Z|Ligue 1 McDonald's | Paris FC|Angers",
-   "home": "Ligue 1 McDonald's | Paris FC",
-   "away": "Angers",
-   "channel": "Ligue 1+",
-   "start": "2026-11-25T20:30:00.000Z",
-   "competition": "Ligue 1",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "NickJr|2026-11-25T20:39:00.000Z|Dora *2024 (La Boîte à musique|Fais dodo, Soleil) S1",
-   "home": "Dora *2024 (La Boîte à musique",
-   "away": "Fais dodo, Soleil) S1",
-   "channel": "NickJr",
-   "start": "2026-11-25T20:39:00.000Z",
-   "competition": "CAN",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "ZeeMagic|2026-11-25T21:00:00.000Z|Can You See Me|Season 1",
-   "home": "Can You See Me",
-   "away": "Season 1",
-   "channel": "ZeeMagic",
-   "start": "2026-11-25T21:00:00.000Z",
-   "competition": "CAN",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "DAZN 2|2026-11-25T21:10:00.000Z|FC Séville|Betis Séville",
-   "home": "FC Séville",
-   "away": "Betis Séville",
-   "channel": "DAZN 2",
-   "start": "2026-11-25T21:10:00.000Z",
-   "competition": "Liga",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "ElevenSports2FR|2026-11-25T21:10:00.000Z|FC Séville|Betis Séville",
-   "home": "FC Séville",
-   "away": "Betis Séville",
-   "channel": "ElevenSports2FR",
-   "start": "2026-11-25T21:10:00.000Z",
-   "competition": "Liga",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "SRF zwei|2026-11-25T22:00:00.000Z|UEFA Champions League|Highlights Männer",
-   "home": "UEFA Champions League",
-   "away": "Highlights Männer",
-   "channel": "SRF zwei",
-   "start": "2026-11-25T22:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "beIN SPORTS 3|2026-11-25T22:00:00.000Z|Ligue des champions | Melsungen|Paris-SG",
-   "home": "Ligue des champions | Melsungen",
-   "away": "Paris-SG",
-   "channel": "beIN SPORTS 3",
-   "start": "2026-11-25T22:00:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Sport 3|2026-11-25T22:15:00.000Z|Paris-SG|AS Roma",
-   "home": "Paris-SG",
-   "away": "AS Roma",
-   "channel": "Canal+ Sport 3",
-   "start": "2026-11-25T22:15:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "ElevenProL1|2026-11-25T22:15:00.000Z|Lommel SK|Standard de Liège",
-   "home": "Lommel SK",
-   "away": "Standard de Liège",
-   "channel": "ElevenProL1",
-   "start": "2026-11-25T22:15:00.000Z",
-   "competition": null,
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Ligue 1+|2026-11-25T22:30:00.000Z|Ligue 1 McDonald's | Nice|Paris-SG",
-   "home": "Ligue 1 McDonald's | Nice",
-   "away": "Paris-SG",
-   "channel": "Ligue 1+",
-   "start": "2026-11-25T22:30:00.000Z",
-   "competition": "Ligue 1",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "GULLI AFRICA|2026-11-25T22:50:00.000Z|Foot GO|Saison 1",
-   "home": "Foot GO",
-   "away": "Saison 1",
-   "channel": "GULLI AFRICA",
-   "start": "2026-11-25T22:50:00.000Z",
-   "competition": null,
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Premier League|2026-11-25T22:59:00.000Z|Tottenham|Ipswich Town",
-   "home": "Tottenham",
-   "away": "Ipswich Town",
-   "channel": "Canal+ Premier League",
-   "start": "2026-11-25T22:59:00.000Z",
-   "competition": "Premier League",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Foot|2026-11-25T23:03:00.000Z|Ligue des champions | Paris-SG|AS Roma",
-   "home": "Ligue des champions | Paris-SG",
-   "away": "AS Roma",
-   "channel": "Canal+ Foot",
-   "start": "2026-11-25T23:03:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Sport 1|2026-11-25T23:05:00.000Z|Bayern Munich|Cologne",
-   "home": "Bayern Munich",
-   "away": "Cologne",
-   "channel": "Canal+ Sport 1",
-   "start": "2026-11-25T23:05:00.000Z",
-   "competition": "Bundesliga",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "SRF info|2026-11-25T23:20:00.000Z|UEFA Champions League|Highlights Männer",
-   "home": "UEFA Champions League",
-   "away": "Highlights Männer",
-   "channel": "SRF info",
-   "start": "2026-11-25T23:20:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "blue Zoom fr|2026-11-25T23:45:00.000Z|Manchester City|Fulham",
-   "home": "Manchester City",
-   "away": "Fulham",
-   "channel": "blue Zoom fr",
-   "start": "2026-11-25T23:45:00.000Z",
-   "competition": "Premier League",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "ZeeMagic|2026-11-26T00:00:00.000Z|Can You See Me|Season 1",
-   "home": "Can You See Me",
-   "away": "Season 1",
-   "channel": "ZeeMagic",
-   "start": "2026-11-26T00:00:00.000Z",
-   "competition": "CAN",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "TéléToon+|2026-11-26T00:05:00.000Z|Les Sisters|Saison 2",
-   "home": "Les Sisters",
-   "away": "Saison 2",
-   "channel": "TéléToon+",
-   "start": "2026-11-26T00:05:00.000Z",
-   "competition": null,
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Suisse|2026-11-26T00:18:00.000Z|A Beautiful Obsession|Saison 1",
-   "home": "A Beautiful Obsession",
-   "away": "Saison 1",
-   "channel": "Canal+ Suisse",
-   "start": "2026-11-26T00:18:00.000Z",
-   "competition": "Premier League",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+|2026-11-26T00:18:00.000Z|A Beautiful Obsession|Saison 1",
-   "home": "A Beautiful Obsession",
-   "away": "Saison 1",
-   "channel": "Canal+",
-   "start": "2026-11-26T00:18:00.000Z",
-   "competition": "Premier League",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ UHD|2026-11-26T00:18:00.000Z|A Beautiful Obsession|Saison 1",
-   "home": "A Beautiful Obsession",
-   "away": "Saison 1",
-   "channel": "Canal+ UHD",
-   "start": "2026-11-26T00:18:00.000Z",
-   "competition": "Premier League",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports1F.be|2026-11-26T00:25:00.000Z|Como|AEK Athènes",
-   "home": "Como",
-   "away": "AEK Athènes",
-   "channel": "PickxPlusSports1F.be",
-   "start": "2026-11-26T00:25:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "PickxPlusSports1N.be|2026-11-26T00:25:00.000Z|Como|AEK Athene",
-   "home": "Como",
-   "away": "AEK Athene",
-   "channel": "PickxPlusSports1N.be",
-   "start": "2026-11-26T00:25:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "ElevenProL1|2026-11-26T00:30:00.000Z|Cercle Brugge|KVC Westerlo",
-   "home": "Cercle Brugge",
-   "away": "KVC Westerlo",
-   "channel": "ElevenProL1",
-   "start": "2026-11-26T00:30:00.000Z",
-   "competition": null,
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Ligue 1+|2026-11-26T00:30:00.000Z|Ligue 1 McDonald's | Lorient|Rennes",
-   "home": "Ligue 1 McDonald's | Lorient",
-   "away": "Rennes",
-   "channel": "Ligue 1+",
-   "start": "2026-11-26T00:30:00.000Z",
-   "competition": "Ligue 1",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "SRF info|2026-11-26T00:45:00.000Z|UEFA Champions League|Highlights Männer",
-   "home": "UEFA Champions League",
-   "away": "Highlights Männer",
-   "channel": "SRF info",
-   "start": "2026-11-26T00:45:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Sport 4|2026-11-26T00:59:00.000Z|FC Séville|Betis Séville",
-   "home": "FC Séville",
-   "away": "Betis Séville",
-   "channel": "Canal+ Sport 4",
-   "start": "2026-11-26T00:59:00.000Z",
-   "competition": "Liga",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "DAZN 1|2026-11-26T01:00:00.000Z|Los Angeles Rams|Green Bay Packers",
-   "home": "Los Angeles Rams",
-   "away": "Green Bay Packers",
-   "channel": "DAZN 1",
-   "start": "2026-11-26T01:00:00.000Z",
-   "competition": null,
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "ElevenSports1FR|2026-11-26T01:00:00.000Z|Los Angeles Rams|Green Bay Packers",
-   "home": "Los Angeles Rams",
-   "away": "Green Bay Packers",
-   "channel": "ElevenSports1FR",
-   "start": "2026-11-26T01:00:00.000Z",
-   "competition": null,
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Eurosport 2|2026-11-26T01:00:00.000Z|Garmisch Partenkirchen | Grand Tremplin|HS 142",
-   "home": "Garmisch Partenkirchen | Grand Tremplin",
-   "away": "HS 142",
-   "channel": "Eurosport 2",
-   "start": "2026-11-26T01:00:00.000Z",
-   "competition": "Coupe du monde",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "GULLI AFRICA|2026-11-26T01:30:00.000Z|Foot 2 rue|Saison 5",
-   "home": "Foot 2 rue",
-   "away": "Saison 5",
-   "channel": "GULLI AFRICA",
-   "start": "2026-11-26T01:30:00.000Z",
-   "competition": null,
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "WarnerTV|2026-11-26T01:35:00.000Z|Young Sheldon|Saison 2",
-   "home": "Young Sheldon",
-   "away": "Saison 2",
-   "channel": "WarnerTV",
-   "start": "2026-11-26T01:35:00.000Z",
-   "competition": null,
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "blue Zoom fr|2026-11-26T01:40:00.000Z|Nice|Paris-SG",
-   "home": "Nice",
-   "away": "Paris-SG",
-   "channel": "blue Zoom fr",
-   "start": "2026-11-26T01:40:00.000Z",
-   "competition": "Ligue 1",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "GULLI AFRICA|2026-11-26T01:50:00.000Z|Foot 2 rue|Saison 5",
-   "home": "Foot 2 rue",
-   "away": "Saison 5",
-   "channel": "GULLI AFRICA",
-   "start": "2026-11-26T01:50:00.000Z",
-   "competition": null,
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Sport 1|2026-11-26T01:53:00.000Z|Troyes|Le Havre",
-   "home": "Troyes",
-   "away": "Le Havre",
-   "channel": "Canal+ Sport 1",
-   "start": "2026-11-26T01:53:00.000Z",
-   "competition": "Ligue 1",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
   {
    "id": "SRF info|2026-11-26T02:15:00.000Z|UEFA Champions League|Highlights Männer",
    "home": "UEFA Champions League",
@@ -1608,16 +58,6 @@
    "away": "AS Roma",
    "channel": "Canal+ Sport 3",
    "start": "2026-11-26T03:13:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "SRF info|2026-11-26T03:40:00.000Z|UEFA Champions League|Highlights Männer",
-   "home": "UEFA Champions League",
-   "away": "Highlights Männer",
-   "channel": "SRF info",
-   "start": "2026-11-26T03:40:00.000Z",
    "competition": "Ligue des champions",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
@@ -1713,11 +153,11 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "SRF info|2026-11-26T05:25:00.000Z|UEFA Champions League|Highlights Männer",
+   "id": "SRF info|2026-11-26T05:05:00.000Z|UEFA Champions League|Highlights Männer",
    "home": "UEFA Champions League",
    "away": "Highlights Männer",
    "channel": "SRF info",
-   "start": "2026-11-26T05:25:00.000Z",
+   "start": "2026-11-26T05:05:00.000Z",
    "competition": "Ligue des champions",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
@@ -1729,16 +169,6 @@
    "channel": "Canal+ Sport 3",
    "start": "2026-11-26T05:52:00.000Z",
    "competition": "Premier League",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Eurosport 2|2026-11-26T06:00:00.000Z|Gurgl | Slalom|1re manche",
-   "home": "Gurgl | Slalom",
-   "away": "1re manche",
-   "channel": "Eurosport 2",
-   "start": "2026-11-26T06:00:00.000Z",
-   "competition": "Coupe du monde",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -1813,22 +243,22 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "Canal+ Foot|2026-11-26T07:20:00.000Z|Ligue des champions | Paris-SG|AS Roma",
-   "home": "Ligue des champions | Paris-SG",
-   "away": "AS Roma",
-   "channel": "Canal+ Foot",
-   "start": "2026-11-26T07:20:00.000Z",
-   "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
    "id": "ElevenProL1|2026-11-26T07:20:00.000Z|Waasland-Beveren|La Gantoise",
    "home": "Waasland-Beveren",
    "away": "La Gantoise",
    "channel": "ElevenProL1",
    "start": "2026-11-26T07:20:00.000Z",
    "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "Canal+ Foot|2026-11-26T07:27:00.000Z|Ligue des champions | Paris-SG|AS Roma",
+   "home": "Ligue des champions | Paris-SG",
+   "away": "AS Roma",
+   "channel": "Canal+ Foot",
+   "start": "2026-11-26T07:27:00.000Z",
+   "competition": "Ligue des champions",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -2003,11 +433,11 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "SRF info|2026-11-26T11:10:00.000Z|UEFA Champions League|Highlights Männer",
+   "id": "SRF info|2026-11-26T11:05:00.000Z|UEFA Champions League|Highlights Männer",
    "home": "UEFA Champions League",
    "away": "Highlights Männer",
    "channel": "SRF info",
-   "start": "2026-11-26T11:10:00.000Z",
+   "start": "2026-11-26T11:05:00.000Z",
    "competition": "Ligue des champions",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
@@ -2073,11 +503,11 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "Canal+ Foot|2026-11-26T12:55:00.000Z|Ligue des champions | Lille|Bayern Munich",
+   "id": "Canal+ Foot|2026-11-26T12:54:00.000Z|Ligue des champions | Lille|Bayern Munich",
    "home": "Ligue des champions | Lille",
    "away": "Bayern Munich",
    "channel": "Canal+ Foot",
-   "start": "2026-11-26T12:55:00.000Z",
+   "start": "2026-11-26T12:54:00.000Z",
    "competition": "Ligue des champions",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
@@ -2089,16 +519,6 @@
    "channel": "Evenements Sports 4K UHD",
    "start": "2026-11-26T12:55:00.000Z",
    "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Eurosport 2|2026-11-26T13:00:00.000Z|Gurgl | Slalom|1re manche",
-   "home": "Gurgl | Slalom",
-   "away": "1re manche",
-   "channel": "Eurosport 2",
-   "start": "2026-11-26T13:00:00.000Z",
-   "competition": "Coupe du monde",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -2199,6 +619,16 @@
    "channel": "Canal+ Sport 3",
    "start": "2026-11-26T14:39:00.000Z",
    "competition": "Premier League",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "Sport en France|2026-11-26T14:50:00.000Z|Coupe du monde | France|Angleterre",
+   "home": "Coupe du monde | France",
+   "away": "Angleterre",
+   "channel": "Sport en France",
+   "start": "2026-11-26T14:50:00.000Z",
+   "competition": "Coupe du monde",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -2403,12 +833,12 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "Canal+ Live 2|2026-11-26T17:40:00.000Z|Marseille|Levski Sofia",
-   "home": "Marseille",
-   "away": "Levski Sofia",
+   "id": "Canal+ Live 2|2026-11-26T17:40:00.000Z|Sabah|FC Barcelone",
+   "home": "Sabah",
+   "away": "FC Barcelone",
    "channel": "Canal+ Live 2",
    "start": "2026-11-26T17:40:00.000Z",
-   "competition": "Europa League",
+   "competition": "Ligue des champions",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -2513,12 +943,12 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "RDS|2026-11-26T17:55:00.000Z|NFL|Bears de Chicago c. Lions de Détroit",
-   "home": "NFL",
-   "away": "Bears de Chicago c. Lions de Détroit",
-   "channel": "RDS",
-   "start": "2026-11-26T17:55:00.000Z",
-   "competition": null,
+   "id": "Canal+ Live 3|2026-11-26T17:47:00.000Z|Slavia Prague|Villarreal",
+   "home": "Slavia Prague",
+   "away": "Villarreal",
+   "channel": "Canal+ Live 3",
+   "start": "2026-11-26T17:47:00.000Z",
+   "competition": "Ligue des champions",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -2703,16 +1133,6 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "Canal+ Live 3|2026-11-26T19:55:00.000Z|Borac Banja Luka|Atalanta Bergame",
-   "home": "Borac Banja Luka",
-   "away": "Atalanta Bergame",
-   "channel": "Canal+ Live 3",
-   "start": "2026-11-26T19:55:00.000Z",
-   "competition": null,
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
    "id": "Canal+ Live 4|2026-11-26T19:55:00.000Z|Crystal Palace|Real Sociedad",
    "home": "Crystal Palace",
    "away": "Real Sociedad",
@@ -2773,6 +1193,16 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
+   "id": "Canal+|2026-11-26T20:00:00.000Z|Ligue Europa | Lyon|Lillestrom",
+   "home": "Ligue Europa | Lyon",
+   "away": "Lillestrom",
+   "channel": "Canal+",
+   "start": "2026-11-26T20:00:00.000Z",
+   "competition": "Europa League",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
    "id": "Canal+ Foot|2026-11-26T20:00:00.000Z|Ligue Europa | NEC Nimègue|Rennes",
    "home": "Ligue Europa | NEC Nimègue",
    "away": "Rennes",
@@ -2783,12 +1213,12 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "Canal+ Live 2|2026-11-26T20:00:00.000Z|Nimègue|Rennes",
-   "home": "Nimègue",
-   "away": "Rennes",
+   "id": "Canal+ Live 2|2026-11-26T20:00:00.000Z|Lille|Bayern Munich",
+   "home": "Lille",
+   "away": "Bayern Munich",
    "channel": "Canal+ Live 2",
    "start": "2026-11-26T20:00:00.000Z",
-   "competition": "Europa League",
+   "competition": "Ligue des champions",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -2813,26 +1243,6 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "Planète+ Crime Investigation|2026-11-26T20:00:00.000Z|Meurtres sous surveillance|Saison 9",
-   "home": "Meurtres sous surveillance",
-   "away": "Saison 9",
-   "channel": "Planète+ Crime Investigation",
-   "start": "2026-11-26T20:00:00.000Z",
-   "competition": null,
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Eurosport 2|2026-11-26T20:15:00.000Z|Gurgl | Slalom|2e manche",
-   "home": "Gurgl | Slalom",
-   "away": "2e manche",
-   "channel": "Eurosport 2",
-   "start": "2026-11-26T20:15:00.000Z",
-   "competition": "Coupe du monde",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
    "id": "Canal+ Sport 2|2026-11-26T20:30:00.000Z|Bayern Munich|Cologne",
    "home": "Bayern Munich",
    "away": "Cologne",
@@ -2849,16 +1259,6 @@
    "channel": "Canal+ Sport 3",
    "start": "2026-11-26T20:30:00.000Z",
    "competition": "Ligue des champions",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Planete+ Aventure|2026-11-26T20:42:00.000Z|Full Custom Garage|Saison 6",
-   "home": "Full Custom Garage",
-   "away": "Saison 6",
-   "channel": "Planete+ Aventure",
-   "start": "2026-11-26T20:42:00.000Z",
-   "competition": "Serie A",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -6123,21 +4523,21 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "Canal+ Foot|2026-11-28T23:20:00.000Z|Ipswich|Aston Villa",
-   "home": "Ipswich",
+   "id": "Evenements Sports 4K UHD|2026-11-28T23:20:00.000Z|Ipswich Town|Aston Villa",
+   "home": "Ipswich Town",
    "away": "Aston Villa",
-   "channel": "Canal+ Foot",
+   "channel": "Evenements Sports 4K UHD",
    "start": "2026-11-28T23:20:00.000Z",
    "competition": "Premier League",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "Evenements Sports 4K UHD|2026-11-28T23:20:00.000Z|Ipswich Town|Aston Villa",
-   "home": "Ipswich Town",
+   "id": "Canal+ Foot|2026-11-28T23:21:00.000Z|Premier League | Ipswich|Aston Villa",
+   "home": "Premier League | Ipswich",
    "away": "Aston Villa",
-   "channel": "Evenements Sports 4K UHD",
-   "start": "2026-11-28T23:20:00.000Z",
+   "channel": "Canal+ Foot",
+   "start": "2026-11-28T23:21:00.000Z",
    "competition": "Premier League",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
@@ -6183,6 +4583,16 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
+   "id": "beIN SPORTS MAX 4|2026-11-29T00:30:00.000Z|NCAA | Alabama|Auburn",
+   "home": "NCAA | Alabama",
+   "away": "Auburn",
+   "channel": "beIN SPORTS MAX 4",
+   "start": "2026-11-29T00:30:00.000Z",
+   "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
    "id": "Canal+ Sport 2|2026-11-29T00:58:00.000Z|Angers|Lens",
    "home": "Angers",
    "away": "Lens",
@@ -6213,11 +4623,11 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "Science et Vie TV|2026-11-29T01:25:00.000Z|le tour d'Europe (Budapest|Bucarest : les temples des titans) S1",
-   "home": "le tour d'Europe (Budapest",
-   "away": "Bucarest : les temples des titans) S1",
-   "channel": "Science et Vie TV",
-   "start": "2026-11-29T01:25:00.000Z",
+   "id": "beIN SPORTS 2|2026-11-29T01:00:00.000Z|Süper Lig | Konyaspor|Besiktas",
+   "home": "Süper Lig | Konyaspor",
+   "away": "Besiktas",
+   "channel": "beIN SPORTS 2",
+   "start": "2026-11-29T01:00:00.000Z",
    "competition": null,
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
@@ -6253,6 +4663,26 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
+   "id": "ElevenSports2FR|2026-11-29T02:05:00.000Z|Real Madrid|Deportivo Alavés",
+   "home": "Real Madrid",
+   "away": "Deportivo Alavés",
+   "channel": "ElevenSports2FR",
+   "start": "2026-11-29T02:05:00.000Z",
+   "competition": "Liga",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "beIN SPORTS 1|2026-11-29T02:30:00.000Z|NFL | Buffalo Bills|Kansas City Chiefs",
+   "home": "NFL | Buffalo Bills",
+   "away": "Kansas City Chiefs",
+   "channel": "beIN SPORTS 1",
+   "start": "2026-11-29T02:30:00.000Z",
+   "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
    "id": "Canal+ Sport 2|2026-11-29T02:39:00.000Z|Stuttgart|Eintracht Francfort",
    "home": "Stuttgart",
    "away": "Eintracht Francfort",
@@ -6263,8 +4693,8 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "beIN SPORTS 2|2026-11-29T03:00:00.000Z|Nantes|Grenoble",
-   "home": "Nantes",
+   "id": "beIN SPORTS 2|2026-11-29T03:00:00.000Z|Ligue 2 BKT | Nantes|Grenoble",
+   "home": "Ligue 2 BKT | Nantes",
    "away": "Grenoble",
    "channel": "beIN SPORTS 2",
    "start": "2026-11-29T03:00:00.000Z",
@@ -6353,8 +4783,8 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "beIN SPORTS 1|2026-11-29T05:00:00.000Z|Stuttgart|Eintracht Francfort",
-   "home": "Stuttgart",
+   "id": "beIN SPORTS 1|2026-11-29T05:00:00.000Z|Bundesliga | Stuttgart|Eintracht Francfort",
+   "home": "Bundesliga | Stuttgart",
    "away": "Eintracht Francfort",
    "channel": "beIN SPORTS 1",
    "start": "2026-11-29T05:00:00.000Z",
@@ -6363,22 +4793,12 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "beIN SPORTS 2|2026-11-29T05:00:00.000Z|Werder Brême|Borussia Mönchengladbach",
-   "home": "Werder Brême",
+   "id": "beIN SPORTS 2|2026-11-29T05:00:00.000Z|Bundesliga | Werder Brême|Borussia Mönchengladbach",
+   "home": "Bundesliga | Werder Brême",
    "away": "Borussia Mönchengladbach",
    "channel": "beIN SPORTS 2",
    "start": "2026-11-29T05:00:00.000Z",
    "competition": "Bundesliga",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Premier League|2026-11-29T05:01:00.000Z|Manchester United|Brentford",
-   "home": "Manchester United",
-   "away": "Brentford",
-   "channel": "Canal+ Premier League",
-   "start": "2026-11-29T05:01:00.000Z",
-   "competition": "Premier League",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -6393,12 +4813,12 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "Top Santé TV|2026-11-29T05:56:00.000Z|Fais ton sport à la maison !|S04E14",
-   "home": "Fais ton sport à la maison !",
-   "away": "S04E14",
-   "channel": "Top Santé TV",
-   "start": "2026-11-29T05:56:00.000Z",
-   "competition": null,
+   "id": "ElevenSports1FR|2026-11-29T06:00:00.000Z|Elche|Atlético Madrid",
+   "home": "Elche",
+   "away": "Atlético Madrid",
+   "channel": "ElevenSports1FR",
+   "start": "2026-11-29T06:00:00.000Z",
+   "competition": "Liga",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -6413,11 +4833,11 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "Canal+ Foot|2026-11-29T06:22:00.000Z|Nottingham Forest|Chelsea",
-   "home": "Nottingham Forest",
+   "id": "Canal+ Foot|2026-11-29T06:18:00.000Z|Premier League | Nottingham Forest|Chelsea",
+   "home": "Premier League | Nottingham Forest",
    "away": "Chelsea",
    "channel": "Canal+ Foot",
-   "start": "2026-11-29T06:22:00.000Z",
+   "start": "2026-11-29T06:18:00.000Z",
    "competition": "Premier League",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
@@ -6433,9 +4853,9 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "Canal+ Premier League|2026-11-29T06:45:00.000Z|Leeds|Coventry",
-   "home": "Leeds",
-   "away": "Coventry",
+   "id": "Canal+ Premier League|2026-11-29T06:45:00.000Z|Tottenham|Ipswich Town",
+   "home": "Tottenham",
+   "away": "Ipswich Town",
    "channel": "Canal+ Premier League",
    "start": "2026-11-29T06:45:00.000Z",
    "competition": "Premier League",
@@ -6449,6 +4869,16 @@
    "channel": "Canal+ Sport 3",
    "start": "2026-11-29T06:48:00.000Z",
    "competition": "Liga",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "ElevenSports2FR|2026-11-29T06:50:00.000Z|Paris-SG|Lorient",
+   "home": "Paris-SG",
+   "away": "Lorient",
+   "channel": "ElevenSports2FR",
+   "start": "2026-11-29T06:50:00.000Z",
+   "competition": "Ligue 1",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -6473,12 +4903,22 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "beIN SPORTS 1|2026-11-29T07:00:00.000Z|Hambourg|Bayern Munich",
-   "home": "Hambourg",
+   "id": "beIN SPORTS 1|2026-11-29T07:00:00.000Z|Bundesliga | Hambourg|Bayern Munich",
+   "home": "Bundesliga | Hambourg",
    "away": "Bayern Munich",
    "channel": "beIN SPORTS 1",
    "start": "2026-11-29T07:00:00.000Z",
    "competition": "Bundesliga",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "beIN SPORTS 2|2026-11-29T07:00:00.000Z|Ligue 2 BKT | Sochaux|Dunkerque",
+   "home": "Ligue 2 BKT | Sochaux",
+   "away": "Dunkerque",
+   "channel": "beIN SPORTS 2",
+   "start": "2026-11-29T07:00:00.000Z",
+   "competition": "Ligue 2",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -6493,6 +4933,16 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
+   "id": "ElevenSports1FR|2026-11-29T08:00:00.000Z|Real Madrid|Deportivo Alavés",
+   "home": "Real Madrid",
+   "away": "Deportivo Alavés",
+   "channel": "ElevenSports1FR",
+   "start": "2026-11-29T08:00:00.000Z",
+   "competition": "Liga",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
    "id": "ZeeMagic|2026-11-29T08:00:00.000Z|Can You See Me|Season 1",
    "home": "Can You See Me",
    "away": "Season 1",
@@ -6503,11 +4953,11 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "Canal+ Foot|2026-11-29T08:05:00.000Z|Manchester United|Brentford",
-   "home": "Manchester United",
+   "id": "Canal+ Foot|2026-11-29T08:02:00.000Z|Premier League | Manchester United|Brentford",
+   "home": "Premier League | Manchester United",
    "away": "Brentford",
    "channel": "Canal+ Foot",
-   "start": "2026-11-29T08:05:00.000Z",
+   "start": "2026-11-29T08:02:00.000Z",
    "competition": "Premier League",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
@@ -6523,11 +4973,11 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "Canal+ Premier League|2026-11-29T08:28:00.000Z|Ipswich|Aston Villa",
-   "home": "Ipswich",
-   "away": "Aston Villa",
+   "id": "Canal+ Premier League|2026-11-29T08:29:00.000Z|Chelsea|Leeds United",
+   "home": "Chelsea",
+   "away": "Leeds United",
    "channel": "Canal+ Premier League",
-   "start": "2026-11-29T08:28:00.000Z",
+   "start": "2026-11-29T08:29:00.000Z",
    "competition": "Premier League",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
@@ -6537,6 +4987,16 @@
    "home": "Cercle Brugge",
    "away": "Malines",
    "channel": "ElevenProL1",
+   "start": "2026-11-29T08:30:00.000Z",
+   "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "beIN SPORTS 3|2026-11-29T08:30:00.000Z|NFL | Dallas Cowboys|Philadelphia Eagles",
+   "home": "NFL | Dallas Cowboys",
+   "away": "Philadelphia Eagles",
+   "channel": "beIN SPORTS 3",
    "start": "2026-11-29T08:30:00.000Z",
    "competition": null,
    "source_name": "xmltvfr.fr",
@@ -6553,12 +5013,32 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
+   "id": "ElevenSports2FR|2026-11-29T08:50:00.000Z|Dallas Cowboys|Philadelphia Eagles",
+   "home": "Dallas Cowboys",
+   "away": "Philadelphia Eagles",
+   "channel": "ElevenSports2FR",
+   "start": "2026-11-29T08:50:00.000Z",
+   "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
    "id": "ZeeMagic|2026-11-29T09:00:00.000Z|Can You See Me|Season 1",
    "home": "Can You See Me",
    "away": "Season 1",
    "channel": "ZeeMagic",
    "start": "2026-11-29T09:00:00.000Z",
    "competition": "CAN",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "beIN SPORTS 2|2026-11-29T09:00:00.000Z|Süper Lig | Galatasaray|Samsunspor",
+   "home": "Süper Lig | Galatasaray",
+   "away": "Samsunspor",
+   "channel": "beIN SPORTS 2",
+   "start": "2026-11-29T09:00:00.000Z",
+   "competition": null,
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -6583,11 +5063,11 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "Canal+ Foot|2026-11-29T09:49:00.000Z|Ipswich|Aston Villa",
-   "home": "Ipswich",
+   "id": "Canal+ Foot|2026-11-29T09:47:00.000Z|Premier League | Ipswich|Aston Villa",
+   "home": "Premier League | Ipswich",
    "away": "Aston Villa",
    "channel": "Canal+ Foot",
-   "start": "2026-11-29T09:49:00.000Z",
+   "start": "2026-11-29T09:47:00.000Z",
    "competition": "Premier League",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
@@ -6613,11 +5093,21 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "Canal+ Premier League|2026-11-29T10:12:00.000Z|Nottingham Forest|Chelsea",
-   "home": "Nottingham Forest",
-   "away": "Chelsea",
+   "id": "Canal+ Premier League|2026-11-29T10:13:00.000Z|Newcastle United|Arsenal",
+   "home": "Newcastle United",
+   "away": "Arsenal",
    "channel": "Canal+ Premier League",
-   "start": "2026-11-29T10:12:00.000Z",
+   "start": "2026-11-29T10:13:00.000Z",
+   "competition": "Premier League",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "ElevenSports1FR|2026-11-29T10:30:00.000Z|City's Mancini|Bayer Leverkusen",
+   "home": "City's Mancini",
+   "away": "Bayer Leverkusen",
+   "channel": "ElevenSports1FR",
+   "start": "2026-11-29T10:30:00.000Z",
    "competition": "Premier League",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
@@ -6643,8 +5133,8 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "beIN SPORTS 2|2026-11-29T11:00:00.000Z|Hambourg|Bayern Munich",
-   "home": "Hambourg",
+   "id": "beIN SPORTS 2|2026-11-29T11:00:00.000Z|Bundesliga | Hambourg|Bayern Munich",
+   "home": "Bundesliga | Hambourg",
    "away": "Bayern Munich",
    "channel": "beIN SPORTS 2",
    "start": "2026-11-29T11:00:00.000Z",
@@ -6663,8 +5153,18 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "Canal+ Foot|2026-11-29T11:55:00.000Z|Everton|Liverpool",
-   "home": "Everton",
+   "id": "ElevenSports1FR|2026-11-29T11:45:00.000Z|Paris-SG|Lorient",
+   "home": "Paris-SG",
+   "away": "Lorient",
+   "channel": "ElevenSports1FR",
+   "start": "2026-11-29T11:45:00.000Z",
+   "competition": "Ligue 1",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "Canal+ Foot|2026-11-29T11:55:00.000Z|Premier League | Everton|Liverpool",
+   "home": "Premier League | Everton",
    "away": "Liverpool",
    "channel": "Canal+ Foot",
    "start": "2026-11-29T11:55:00.000Z",
@@ -6677,16 +5177,6 @@
    "home": "Everton",
    "away": "Liverpool",
    "channel": "Canal+ Live 1",
-   "start": "2026-11-29T11:55:00.000Z",
-   "competition": "Premier League",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Premier League|2026-11-29T11:55:00.000Z|Everton|Liverpool",
-   "home": "Everton",
-   "away": "Liverpool",
-   "channel": "Canal+ Premier League",
    "start": "2026-11-29T11:55:00.000Z",
    "competition": "Premier League",
    "source_name": "xmltvfr.fr",
@@ -6713,6 +5203,26 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
+   "id": "beIN SPORTS MAX 4|2026-11-29T11:55:00.000Z|EFL Championship | Swansea|Cardiff",
+   "home": "EFL Championship | Swansea",
+   "away": "Cardiff",
+   "channel": "beIN SPORTS MAX 4",
+   "start": "2026-11-29T11:55:00.000Z",
+   "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "Canal+ Premier League|2026-11-29T11:56:00.000Z|Coventry|Crystal Palace",
+   "home": "Coventry",
+   "away": "Crystal Palace",
+   "channel": "Canal+ Premier League",
+   "start": "2026-11-29T11:56:00.000Z",
+   "competition": "Premier League",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
    "id": "blue Zoom fr|2026-11-29T12:00:00.000Z|FK Jablonec|FC Lugano",
    "home": "FK Jablonec",
    "away": "FC Lugano",
@@ -6727,6 +5237,16 @@
    "home": "Saint-Trond",
    "away": "Racing Genk",
    "channel": "ElevenProL1",
+   "start": "2026-11-29T12:00:00.000Z",
+   "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "TVA Sports|2026-11-29T12:00:00.000Z|Western|Montréal",
+   "home": "Western",
+   "away": "Montréal",
+   "channel": "TVA Sports",
    "start": "2026-11-29T12:00:00.000Z",
    "competition": null,
    "source_name": "xmltvfr.fr",
@@ -6749,6 +5269,16 @@
    "channel": "CANAL+ SPORT 5",
    "start": "2026-11-29T12:23:00.000Z",
    "competition": "Premier League",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "beIN SPORTS MAX 5|2026-11-29T12:25:00.000Z|Bundesliga 2 | Braunschweig|Wolfsburg",
+   "home": "Bundesliga 2 | Braunschweig",
+   "away": "Wolfsburg",
+   "channel": "beIN SPORTS MAX 5",
+   "start": "2026-11-29T12:25:00.000Z",
+   "competition": "Bundesliga",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -6789,6 +5319,46 @@
    "channel": "Ligue 1+",
    "start": "2026-11-29T13:30:00.000Z",
    "competition": "Ligue 1",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "Ligue 1+ 3|2026-11-29T13:30:00.000Z|Ligue 1 McDonald's | Auxerre|Marseille",
+   "home": "Ligue 1 McDonald's | Auxerre",
+   "away": "Marseille",
+   "channel": "Ligue 1+ 3",
+   "start": "2026-11-29T13:30:00.000Z",
+   "competition": "Ligue 1",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "ElevenSports2FR|2026-11-29T13:45:00.000Z|Auxerre|Marseille",
+   "home": "Auxerre",
+   "away": "Marseille",
+   "channel": "ElevenSports2FR",
+   "start": "2026-11-29T13:45:00.000Z",
+   "competition": "Ligue 1",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "ElevenSports1FR|2026-11-29T13:50:00.000Z|Klopp's Dortmund|Juventus",
+   "home": "Klopp's Dortmund",
+   "away": "Juventus",
+   "channel": "ElevenSports1FR",
+   "start": "2026-11-29T13:50:00.000Z",
+   "competition": "Bundesliga",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "Canal+ Premier League|2026-11-29T13:55:00.000Z|Hull City|Brighton & Hove Albion",
+   "home": "Hull City",
+   "away": "Brighton & Hove Albion",
+   "channel": "Canal+ Premier League",
+   "start": "2026-11-29T13:55:00.000Z",
+   "competition": "Premier League",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -6863,8 +5433,8 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "beIN SPORTS 1|2026-11-29T14:30:00.000Z|Fribourg|Leipzig",
-   "home": "Fribourg",
+   "id": "beIN SPORTS 1|2026-11-29T14:30:00.000Z|Bundesliga | Fribourg|Leipzig",
+   "home": "Bundesliga | Fribourg",
    "away": "Leipzig",
    "channel": "beIN SPORTS 1",
    "start": "2026-11-29T14:30:00.000Z",
@@ -6879,6 +5449,16 @@
    "channel": "ElevenProL1",
    "start": "2026-11-29T14:55:00.000Z",
    "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "ElevenSports1FR|2026-11-29T15:10:00.000Z|Deportivo La Corogne|FC Barcelone",
+   "home": "Deportivo La Corogne",
+   "away": "FC Barcelone",
+   "channel": "ElevenSports1FR",
+   "start": "2026-11-29T15:10:00.000Z",
+   "competition": "Liga",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -6913,6 +5493,26 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
+   "id": "Ligue 1+ 4|2026-11-29T15:55:00.000Z|Ligue 1 McDonald's | Toulouse|Rennes",
+   "home": "Ligue 1 McDonald's | Toulouse",
+   "away": "Rennes",
+   "channel": "Ligue 1+ 4",
+   "start": "2026-11-29T15:55:00.000Z",
+   "competition": "Ligue 1",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "beIN SPORTS MAX 6|2026-11-29T15:55:00.000Z|Süper Lig | Fenerbahçe|Erzurumspor",
+   "home": "Süper Lig | Fenerbahçe",
+   "away": "Erzurumspor",
+   "channel": "beIN SPORTS MAX 6",
+   "start": "2026-11-29T15:55:00.000Z",
+   "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
    "id": "Ligue 1+|2026-11-29T16:06:00.000Z|Ligue 1 McDonald's | Toulouse|Rennes",
    "home": "Ligue 1 McDonald's | Toulouse",
    "away": "Rennes",
@@ -6933,8 +5533,8 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "beIN SPORTS MAX 5|2026-11-29T16:24:00.000Z|Hoffenheim|Augsbourg",
-   "home": "Hoffenheim",
+   "id": "beIN SPORTS MAX 5|2026-11-29T16:24:00.000Z|Bundesliga | Hoffenheim|Augsbourg",
+   "home": "Bundesliga | Hoffenheim",
    "away": "Augsbourg",
    "channel": "beIN SPORTS MAX 5",
    "start": "2026-11-29T16:24:00.000Z",
@@ -6943,8 +5543,8 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "Canal+ Foot|2026-11-29T16:30:00.000Z|Arsenal|Manchester City",
-   "home": "Arsenal",
+   "id": "Canal+ Foot|2026-11-29T16:30:00.000Z|Premier League | Arsenal|Manchester City",
+   "home": "Premier League | Arsenal",
    "away": "Manchester City",
    "channel": "Canal+ Foot",
    "start": "2026-11-29T16:30:00.000Z",
@@ -6963,12 +5563,22 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "Canal+ Premier League|2026-11-29T16:30:00.000Z|Arsenal|Manchester City",
-   "home": "Arsenal",
+   "id": "Canal+ Sport 360|2026-11-29T16:30:00.000Z|Premier League | Arsenal|Manchester City",
+   "home": "Premier League | Arsenal",
    "away": "Manchester City",
-   "channel": "Canal+ Premier League",
+   "channel": "Canal+ Sport 360",
    "start": "2026-11-29T16:30:00.000Z",
    "competition": "Premier League",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "ElevenSports2FR|2026-11-29T16:50:00.000Z|AS Roma|AC Monza",
+   "home": "AS Roma",
+   "away": "AC Monza",
+   "channel": "ElevenSports2FR",
+   "start": "2026-11-29T16:50:00.000Z",
+   "competition": "Serie A",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -7023,22 +5633,42 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "Lucky Jack|2026-11-29T17:38:00.000Z|World Cup of Poker|S01E06",
-   "home": "World Cup of Poker",
-   "away": "S01E06",
-   "channel": "Lucky Jack",
-   "start": "2026-11-29T17:38:00.000Z",
-   "competition": "Coupe du monde",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
    "id": "ElevenProL2|2026-11-29T17:50:00.000Z|Royale Union Saint-Gilloise|La Gantoise",
    "home": "Royale Union Saint-Gilloise",
    "away": "La Gantoise",
    "channel": "ElevenProL2",
    "start": "2026-11-29T17:50:00.000Z",
    "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "RTL Plus|2026-11-29T18:00:00.000Z|Cincinnati Bengals|New Orleans Saints",
+   "home": "Cincinnati Bengals",
+   "away": "New Orleans Saints",
+   "channel": "RTL Plus",
+   "start": "2026-11-29T18:00:00.000Z",
+   "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "beIN SPORTS 1|2026-11-29T18:00:00.000Z|NFL | Cincinnati Bengals|New Orleans Saints",
+   "home": "NFL | Cincinnati Bengals",
+   "away": "New Orleans Saints",
+   "channel": "beIN SPORTS 1",
+   "start": "2026-11-29T18:00:00.000Z",
+   "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "beIN SPORTS 2|2026-11-29T18:15:00.000Z|Bundesliga | Borussia Dortmund|Bayer Leverkusen",
+   "home": "Bundesliga | Borussia Dortmund",
+   "away": "Bayer Leverkusen",
+   "channel": "beIN SPORTS 2",
+   "start": "2026-11-29T18:15:00.000Z",
+   "competition": "Bundesliga",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -7063,31 +5693,11 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "Lucky Jack|2026-11-29T18:28:00.000Z|World Cup of Poker|S01E05",
-   "home": "World Cup of Poker",
-   "away": "S01E05",
-   "channel": "Lucky Jack",
-   "start": "2026-11-29T18:28:00.000Z",
-   "competition": "Coupe du monde",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "beIN SPORTS 2|2026-11-29T18:30:00.000Z|Borussia Dortmund|Bayer Leverkusen",
-   "home": "Borussia Dortmund",
-   "away": "Bayer Leverkusen",
-   "channel": "beIN SPORTS 2",
-   "start": "2026-11-29T18:30:00.000Z",
-   "competition": "Bundesliga",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Premier League|2026-11-29T18:31:00.000Z|Brighton & Hove Albion|Newcastle",
-   "home": "Brighton & Hove Albion",
-   "away": "Newcastle",
+   "id": "Canal+ Premier League|2026-11-29T18:29:00.000Z|Manchester City|Fulham",
+   "home": "Manchester City",
+   "away": "Fulham",
    "channel": "Canal+ Premier League",
-   "start": "2026-11-29T18:31:00.000Z",
+   "start": "2026-11-29T18:29:00.000Z",
    "competition": "Premier League",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
@@ -7123,10 +5733,50 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
+   "id": "ElevenSports1FR|2026-11-29T19:30:00.000Z|Lyon|Monaco",
+   "home": "Lyon",
+   "away": "Monaco",
+   "channel": "ElevenSports1FR",
+   "start": "2026-11-29T19:30:00.000Z",
+   "competition": "Ligue 1",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "ElevenSports2FR|2026-11-29T19:35:00.000Z|Como|Juventus Turin",
+   "home": "Como",
+   "away": "Juventus Turin",
+   "channel": "ElevenSports2FR",
+   "start": "2026-11-29T19:35:00.000Z",
+   "competition": "Serie A",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "Ligue 1+ 2|2026-11-29T19:37:00.000Z|Ligue 1 McDonald's | Lyon|Monaco",
+   "home": "Ligue 1 McDonald's | Lyon",
+   "away": "Monaco",
+   "channel": "Ligue 1+ 2",
+   "start": "2026-11-29T19:37:00.000Z",
+   "competition": "Ligue 1",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
    "id": "Ligue 1+|2026-11-29T19:38:00.000Z|Ligue 1 McDonald's | Lyon|Monaco",
    "home": "Ligue 1 McDonald's | Lyon",
    "away": "Monaco",
    "channel": "Ligue 1+",
+   "start": "2026-11-29T19:38:00.000Z",
+   "competition": "Ligue 1",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "Ligue 1+ 10|2026-11-29T19:38:00.000Z|Ligue 1 McDonald's | Lyon|Monaco",
+   "home": "Ligue 1 McDonald's | Lyon",
+   "away": "Monaco",
+   "channel": "Ligue 1+ 10",
    "start": "2026-11-29T19:38:00.000Z",
    "competition": "Ligue 1",
    "source_name": "xmltvfr.fr",
@@ -7163,16 +5813,6 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "ElevenSports1FR|2026-11-29T19:45:00.000Z|Lyon|Monaco",
-   "home": "Lyon",
-   "away": "Monaco",
-   "channel": "ElevenSports1FR",
-   "start": "2026-11-29T19:45:00.000Z",
-   "competition": "Ligue 1",
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
    "id": "ElevenSports2FR|2026-11-29T19:45:00.000Z|Como|Juventus Turin",
    "home": "Como",
    "away": "Juventus Turin",
@@ -7199,16 +5839,6 @@
    "channel": "TV Lux",
    "start": "2026-11-29T20:00:00.000Z",
    "competition": null,
-   "source_name": "xmltvfr.fr",
-   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
-  },
-  {
-   "id": "Canal+ Premier League|2026-11-29T20:14:00.000Z|Arsenal|Manchester City",
-   "home": "Arsenal",
-   "away": "Manchester City",
-   "channel": "Canal+ Premier League",
-   "start": "2026-11-29T20:14:00.000Z",
-   "competition": "Premier League",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -7273,6 +5903,26 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
+   "id": "beIN SPORTS 1|2026-11-29T21:15:00.000Z|NFL | San Francisco 49ers|Seattle Seahawks",
+   "home": "NFL | San Francisco 49ers",
+   "away": "Seattle Seahawks",
+   "channel": "beIN SPORTS 1",
+   "start": "2026-11-29T21:15:00.000Z",
+   "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "RTL Plus|2026-11-29T21:25:00.000Z|San Francisco 49ers|Seattle Seahawks",
+   "home": "San Francisco 49ers",
+   "away": "Seattle Seahawks",
+   "channel": "RTL Plus",
+   "start": "2026-11-29T21:25:00.000Z",
+   "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
    "id": "blue Zoom fr|2026-11-29T21:50:00.000Z|Arsenal FC|Borussia Dortmund",
    "home": "Arsenal FC",
    "away": "Borussia Dortmund",
@@ -7283,22 +5933,32 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "Canal+ Foot|2026-11-29T21:54:00.000Z|Arsenal|Manchester City",
-   "home": "Arsenal",
+   "id": "Canal+ Foot|2026-11-29T21:55:00.000Z|Premier League | Arsenal|Manchester City",
+   "home": "Premier League | Arsenal",
    "away": "Manchester City",
    "channel": "Canal+ Foot",
-   "start": "2026-11-29T21:54:00.000Z",
+   "start": "2026-11-29T21:55:00.000Z",
    "competition": "Premier League",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
-   "id": "Canal+ Premier League|2026-11-29T21:58:00.000Z|Crystal Palace|Hull City",
-   "home": "Crystal Palace",
-   "away": "Hull City",
+   "id": "Canal+ Premier League|2026-11-29T21:56:00.000Z|Hull City|Brighton & Hove Albion",
+   "home": "Hull City",
+   "away": "Brighton & Hove Albion",
    "channel": "Canal+ Premier League",
-   "start": "2026-11-29T21:58:00.000Z",
+   "start": "2026-11-29T21:56:00.000Z",
    "competition": "Premier League",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "La chaine l’Équipe|2026-11-29T22:00:00.000Z|NFL | San Francisco 49ers|Seattle Seahawks",
+   "home": "NFL | San Francisco 49ers",
+   "away": "Seattle Seahawks",
+   "channel": "La chaine l’Équipe",
+   "start": "2026-11-29T22:00:00.000Z",
+   "competition": null,
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -8283,6 +6943,16 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
+   "id": "Ligue 1+|2026-11-30T23:50:00.000Z|Ligue 1 McDonald's | Le Havre|Strasbourg",
+   "home": "Ligue 1 McDonald's | Le Havre",
+   "away": "Strasbourg",
+   "channel": "Ligue 1+",
+   "start": "2026-11-30T23:50:00.000Z",
+   "competition": "Ligue 1",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
    "id": "blue Zoom fr|2026-12-01T00:25:00.000Z|Real Madrid CF|PSV Eindhoven",
    "home": "Real Madrid CF",
    "away": "PSV Eindhoven",
@@ -8409,6 +7079,16 @@
    "channel": "GULLI AFRICA",
    "start": "2026-12-01T04:00:00.000Z",
    "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "Ligue 1+|2026-12-01T04:00:00.000Z|Ligue 1 McDonald's | Angers|Lens",
+   "home": "Ligue 1 McDonald's | Angers",
+   "away": "Lens",
+   "channel": "Ligue 1+",
+   "start": "2026-12-01T04:00:00.000Z",
+   "competition": "Ligue 1",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -8573,6 +7253,16 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
+   "id": "Ligue 1+|2026-12-01T09:00:00.000Z|Ligue 3 | Versailles|Valenciennes",
+   "home": "Ligue 3 | Versailles",
+   "away": "Valenciennes",
+   "channel": "Ligue 1+",
+   "start": "2026-12-01T09:00:00.000Z",
+   "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
    "id": "ElevenProL1|2026-12-01T09:40:00.000Z|Cercle Brugge|Malines",
    "home": "Cercle Brugge",
    "away": "Malines",
@@ -8609,6 +7299,16 @@
    "channel": "PickxPlusSports1N.be",
    "start": "2026-12-01T10:50:00.000Z",
    "competition": "Ligue des champions",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "Ligue 1+|2026-12-01T11:00:00.000Z|Ligue 3 | Concarneau|Paris 13 Atletico",
+   "home": "Ligue 3 | Concarneau",
+   "away": "Paris 13 Atletico",
+   "channel": "Ligue 1+",
+   "start": "2026-12-01T11:00:00.000Z",
+   "competition": null,
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -8663,6 +7363,16 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
+   "id": "Ligue 1+|2026-12-01T13:00:00.000Z|Ligue 1 McDonald's | Angers|Lens",
+   "home": "Ligue 1 McDonald's | Angers",
+   "away": "Lens",
+   "channel": "Ligue 1+",
+   "start": "2026-12-01T13:00:00.000Z",
+   "competition": "Ligue 1",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
    "id": "Canal+ Family Ouest|2026-12-01T13:05:00.000Z|Foot GO|Saison 1",
    "home": "Foot GO",
    "away": "Saison 1",
@@ -8699,6 +7409,16 @@
    "channel": "ElevenProL1",
    "start": "2026-12-01T14:20:00.000Z",
    "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "Ligue 1+|2026-12-01T15:00:00.000Z|Ligue 1 McDonald's | Auxerre|Marseille",
+   "home": "Ligue 1 McDonald's | Auxerre",
+   "away": "Marseille",
+   "channel": "Ligue 1+",
+   "start": "2026-12-01T15:00:00.000Z",
+   "competition": "Ligue 1",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -8773,12 +7493,32 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
+   "id": "Ligue 1+|2026-12-01T17:00:00.000Z|Ligue 1 McDonald's | Le Mans|Lille",
+   "home": "Ligue 1 McDonald's | Le Mans",
+   "away": "Lille",
+   "channel": "Ligue 1+",
+   "start": "2026-12-01T17:00:00.000Z",
+   "competition": "Ligue 1",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
    "id": "blue Zoom fr|2026-12-01T19:00:00.000Z|Arsenal FC|Manchester City",
    "home": "Arsenal FC",
    "away": "Manchester City",
    "channel": "blue Zoom fr",
    "start": "2026-12-01T19:00:00.000Z",
    "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "Ligue 1+|2026-12-01T19:00:00.000Z|Ligue 1 McDonald's | Auxerre|Marseille",
+   "home": "Ligue 1 McDonald's | Auxerre",
+   "away": "Marseille",
+   "channel": "Ligue 1+",
+   "start": "2026-12-01T19:00:00.000Z",
+   "competition": "Ligue 1",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -8843,6 +7583,16 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
+   "id": "Ligue 1+|2026-12-01T21:00:00.000Z|Ligue 1 McDonald's | Lyon|Monaco",
+   "home": "Ligue 1 McDonald's | Lyon",
+   "away": "Monaco",
+   "channel": "Ligue 1+",
+   "start": "2026-12-01T21:00:00.000Z",
+   "competition": "Ligue 1",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
    "id": "NickJr|2026-12-01T21:02:00.000Z|Dora *2024 (Les Bébés fleurs|Les feuilles magiques des Alebrijes) S2",
    "home": "Dora *2024 (Les Bébés fleurs",
    "away": "Les feuilles magiques des Alebrijes) S2",
@@ -8859,6 +7609,16 @@
    "channel": "GULLI AFRICA",
    "start": "2026-12-01T22:50:00.000Z",
    "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "Ligue 1+|2026-12-01T23:00:00.000Z|Ligue 1 McDonald's | Nice|Troyes",
+   "home": "Ligue 1 McDonald's | Nice",
+   "away": "Troyes",
+   "channel": "Ligue 1+",
+   "start": "2026-12-01T23:00:00.000Z",
+   "competition": "Ligue 1",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -8893,6 +7653,16 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
+   "id": "Ligue 1+|2026-12-02T01:00:00.000Z|Ligue 1 McDonald's | Auxerre|Marseille",
+   "home": "Ligue 1 McDonald's | Auxerre",
+   "away": "Marseille",
+   "channel": "Ligue 1+",
+   "start": "2026-12-02T01:00:00.000Z",
+   "competition": "Ligue 1",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
    "id": "ElevenProL1|2026-12-02T02:45:00.000Z|OH Louvain|Courtrai",
    "home": "OH Louvain",
    "away": "Courtrai",
@@ -8913,6 +7683,16 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
+   "id": "Ligue 1+|2026-12-02T04:00:00.000Z|Ligue 1 McDonald's | Nice|Troyes",
+   "home": "Ligue 1 McDonald's | Nice",
+   "away": "Troyes",
+   "channel": "Ligue 1+",
+   "start": "2026-12-02T04:00:00.000Z",
+   "competition": "Ligue 1",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
    "id": "ElevenProL1|2026-12-02T05:00:00.000Z|Cercle Brugge|Malines",
    "home": "Cercle Brugge",
    "away": "Malines",
@@ -8929,6 +7709,26 @@
    "channel": "CBMT",
    "start": "2026-12-02T05:30:00.000Z",
    "competition": "CAN",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "PickxPlusSports1F.be|2026-12-02T06:50:00.000Z|Shakhtar Donetsk|Fenerbahce",
+   "home": "Shakhtar Donetsk",
+   "away": "Fenerbahce",
+   "channel": "PickxPlusSports1F.be",
+   "start": "2026-12-02T06:50:00.000Z",
+   "competition": "Ligue des champions",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "PickxPlusSports1N.be|2026-12-02T06:50:00.000Z|Shakhtar Donetsk|Fenerbahce",
+   "home": "Shakhtar Donetsk",
+   "away": "Fenerbahce",
+   "channel": "PickxPlusSports1N.be",
+   "start": "2026-12-02T06:50:00.000Z",
+   "competition": "Ligue des champions",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -8973,11 +7773,51 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
+   "id": "Ligue 1+|2026-12-02T09:00:00.000Z|Ligue 3 | Valenciennes|Amiens",
+   "home": "Ligue 3 | Valenciennes",
+   "away": "Amiens",
+   "channel": "Ligue 1+",
+   "start": "2026-12-02T09:00:00.000Z",
+   "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
    "id": "ElevenProL1|2026-12-02T09:40:00.000Z|Lommel SK|SV Zulte Waregem",
    "home": "Lommel SK",
    "away": "SV Zulte Waregem",
    "channel": "ElevenProL1",
    "start": "2026-12-02T09:40:00.000Z",
+   "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "PickxPlusSports1F.be|2026-12-02T10:40:00.000Z|Shakhtar Donetsk|Fenerbahce",
+   "home": "Shakhtar Donetsk",
+   "away": "Fenerbahce",
+   "channel": "PickxPlusSports1F.be",
+   "start": "2026-12-02T10:40:00.000Z",
+   "competition": "Ligue des champions",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "PickxPlusSports1N.be|2026-12-02T10:40:00.000Z|Shakhtar Donetsk|Fenerbahce",
+   "home": "Shakhtar Donetsk",
+   "away": "Fenerbahce",
+   "channel": "PickxPlusSports1N.be",
+   "start": "2026-12-02T10:40:00.000Z",
+   "competition": "Ligue des champions",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "Ligue 1+|2026-12-02T11:00:00.000Z|Ligue 3 | Paris 13 Atletico|Rouen",
+   "home": "Ligue 3 | Paris 13 Atletico",
+   "away": "Rouen",
+   "channel": "Ligue 1+",
+   "start": "2026-12-02T11:00:00.000Z",
    "competition": null,
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
@@ -8989,6 +7829,36 @@
    "channel": "DAZN 2",
    "start": "2026-12-02T12:25:00.000Z",
    "competition": "Serie A",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "PickxPlusSports1F.be|2026-12-02T12:45:00.000Z|Paris Saint-Germain|AS Roma",
+   "home": "Paris Saint-Germain",
+   "away": "AS Roma",
+   "channel": "PickxPlusSports1F.be",
+   "start": "2026-12-02T12:45:00.000Z",
+   "competition": "Ligue des champions",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "PickxPlusSports1N.be|2026-12-02T12:45:00.000Z|Paris Saint-Germain|AS Roma",
+   "home": "Paris Saint-Germain",
+   "away": "AS Roma",
+   "channel": "PickxPlusSports1N.be",
+   "start": "2026-12-02T12:45:00.000Z",
+   "competition": "Ligue des champions",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "Ligue 1+|2026-12-02T13:00:00.000Z|Ligue 1 McDonald's | Nice|Troyes",
+   "home": "Ligue 1 McDonald's | Nice",
+   "away": "Troyes",
+   "channel": "Ligue 1+",
+   "start": "2026-12-02T13:00:00.000Z",
+   "competition": "Ligue 1",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -9023,6 +7893,16 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
+   "id": "Ligue 1+|2026-12-02T15:00:00.000Z|Ligue 1 McDonald's | Toulouse|Rennes",
+   "home": "Ligue 1 McDonald's | Toulouse",
+   "away": "Rennes",
+   "channel": "Ligue 1+",
+   "start": "2026-12-02T15:00:00.000Z",
+   "competition": "Ligue 1",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
    "id": "ElevenProL1|2026-12-02T16:35:00.000Z|Royal Antwerp FC|Anderlecht",
    "home": "Royal Antwerp FC",
    "away": "Anderlecht",
@@ -9039,6 +7919,26 @@
    "channel": "ZDF",
    "start": "2026-12-02T16:40:00.000Z",
    "competition": "Bundesliga",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "Ligue 1+|2026-12-02T17:00:00.000Z|Ligue 1 McDonald's | Le Havre|Strasbourg",
+   "home": "Ligue 1 McDonald's | Le Havre",
+   "away": "Strasbourg",
+   "channel": "Ligue 1+",
+   "start": "2026-12-02T17:00:00.000Z",
+   "competition": "Ligue 1",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "Canvas|2026-12-02T17:35:00.000Z|Servette FCCF|OH Louvain",
+   "home": "Servette FCCF",
+   "away": "OH Louvain",
+   "channel": "Canvas",
+   "start": "2026-12-02T17:35:00.000Z",
+   "competition": "Ligue des champions",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -9103,6 +8003,16 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
+   "id": "Ligue 1+|2026-12-02T20:30:00.000Z|Ligue 1 McDonald's | Brest|Paris FC",
+   "home": "Ligue 1 McDonald's | Brest",
+   "away": "Paris FC",
+   "channel": "Ligue 1+",
+   "start": "2026-12-02T20:30:00.000Z",
+   "competition": "Ligue 1",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
    "id": "DAZN 2|2026-12-02T20:55:00.000Z|Côme|Juventus Turin",
    "home": "Côme",
    "away": "Juventus Turin",
@@ -9123,12 +8033,42 @@
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
   {
+   "id": "PickxPlusSports1F.be|2026-12-02T21:35:00.000Z|Sabah FC|FC Barcelona",
+   "home": "Sabah FC",
+   "away": "FC Barcelona",
+   "channel": "PickxPlusSports1F.be",
+   "start": "2026-12-02T21:35:00.000Z",
+   "competition": "Ligue des champions",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "PickxPlusSports1N.be|2026-12-02T21:35:00.000Z|Sabah FC|FC Barcelona",
+   "home": "Sabah FC",
+   "away": "FC Barcelona",
+   "channel": "PickxPlusSports1N.be",
+   "start": "2026-12-02T21:35:00.000Z",
+   "competition": "Ligue des champions",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
    "id": "ElevenProL1|2026-12-02T22:15:00.000Z|Royale Union Saint-Gilloise|La Gantoise",
    "home": "Royale Union Saint-Gilloise",
    "away": "La Gantoise",
    "channel": "ElevenProL1",
    "start": "2026-12-02T22:15:00.000Z",
    "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "Ligue 1+|2026-12-02T22:30:00.000Z|Ligue 1 McDonald's | Le Mans|Lille",
+   "home": "Ligue 1 McDonald's | Le Mans",
+   "away": "Lille",
+   "channel": "Ligue 1+",
+   "start": "2026-12-02T22:30:00.000Z",
+   "competition": "Ligue 1",
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   },
@@ -9379,6 +8319,146 @@
    "channel": "ElevenSports1FR",
    "start": "2026-12-03T14:20:00.000Z",
    "competition": "Liga",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "DAZN 1|2026-12-03T16:20:00.000Z|Real Sociedad|Real Madrid",
+   "home": "Real Sociedad",
+   "away": "Real Madrid",
+   "channel": "DAZN 1",
+   "start": "2026-12-03T16:20:00.000Z",
+   "competition": "Liga",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "ElevenSports1FR|2026-12-03T16:20:00.000Z|Real Sociedad|Real Madrid",
+   "home": "Real Sociedad",
+   "away": "Real Madrid",
+   "channel": "ElevenSports1FR",
+   "start": "2026-12-03T16:20:00.000Z",
+   "competition": "Liga",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "ElevenProL1|2026-12-03T16:35:00.000Z|Royale Union Saint-Gilloise|La Gantoise",
+   "home": "Royale Union Saint-Gilloise",
+   "away": "La Gantoise",
+   "channel": "ElevenProL1",
+   "start": "2026-12-03T16:35:00.000Z",
+   "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "DAZN 1|2026-12-03T19:50:00.000Z|Juventus Turin|Sassuolo",
+   "home": "Juventus Turin",
+   "away": "Sassuolo",
+   "channel": "DAZN 1",
+   "start": "2026-12-03T19:50:00.000Z",
+   "competition": "Serie A",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "ElevenSports1FR|2026-12-03T19:50:00.000Z|Juventus|Sassuolo",
+   "home": "Juventus",
+   "away": "Sassuolo",
+   "channel": "ElevenSports1FR",
+   "start": "2026-12-03T19:50:00.000Z",
+   "competition": "Serie A",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "ElevenProL1|2026-12-03T20:00:00.000Z|OH Louvain|Courtrai",
+   "home": "OH Louvain",
+   "away": "Courtrai",
+   "channel": "ElevenProL1",
+   "start": "2026-12-03T20:00:00.000Z",
+   "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "ElevenProL1|2026-12-03T22:15:00.000Z|KVC Westerlo|La Louvière",
+   "home": "KVC Westerlo",
+   "away": "La Louvière",
+   "channel": "ElevenProL1",
+   "start": "2026-12-03T22:15:00.000Z",
+   "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "NickJr|2026-12-03T23:40:00.000Z|Ruben & Cie (Un restaurant six étoiles|Le spectacle de Rose et Rosie) S4",
+   "home": "Ruben & Cie (Un restaurant six étoiles",
+   "away": "Le spectacle de Rose et Rosie) S4",
+   "channel": "NickJr",
+   "start": "2026-12-03T23:40:00.000Z",
+   "competition": "CAN",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "ElevenProL1|2026-12-04T00:30:00.000Z|Cercle Brugge|Malines",
+   "home": "Cercle Brugge",
+   "away": "Malines",
+   "channel": "ElevenProL1",
+   "start": "2026-12-04T00:30:00.000Z",
+   "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "DAZN 2|2026-12-04T01:25:00.000Z|Los Angeles Rams|Kansas City Chiefs",
+   "home": "Los Angeles Rams",
+   "away": "Kansas City Chiefs",
+   "channel": "DAZN 2",
+   "start": "2026-12-04T01:25:00.000Z",
+   "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "ElevenSports2FR|2026-12-04T01:25:00.000Z|Los Angeles Rams|Kansas City Chiefs",
+   "home": "Los Angeles Rams",
+   "away": "Kansas City Chiefs",
+   "channel": "ElevenSports2FR",
+   "start": "2026-12-04T01:25:00.000Z",
+   "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "ElevenProL1|2026-12-04T02:45:00.000Z|Sporting de Charleroi|Waasland-Beveren",
+   "home": "Sporting de Charleroi",
+   "away": "Waasland-Beveren",
+   "channel": "ElevenProL1",
+   "start": "2026-12-04T02:45:00.000Z",
+   "competition": null,
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "PlayboyTV.fr|2026-12-04T04:09:00.000Z|Swing|S02E08",
+   "home": "Swing",
+   "away": "S02E08",
+   "channel": "PlayboyTV.fr",
+   "start": "2026-12-04T04:09:00.000Z",
+   "competition": "CAN",
+   "source_name": "xmltvfr.fr",
+   "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
+  },
+  {
+   "id": "Boomerang +1|2026-12-04T04:30:00.000Z|Tom et Jerry Show|S04E24",
+   "home": "Tom et Jerry Show",
+   "away": "S04E24",
+   "channel": "Boomerang +1",
+   "start": "2026-12-04T04:30:00.000Z",
+   "competition": null,
    "source_name": "xmltvfr.fr",
    "source_url": "https://xmltvfr.fr/xmltv/xmltv.zip"
   }
